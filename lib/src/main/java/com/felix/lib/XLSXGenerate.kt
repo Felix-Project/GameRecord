@@ -5,7 +5,6 @@ import com.felix.lib.bean.ScoreLine
 import com.felix.lib.bean.toFormatString
 import org.apache.poi.ss.usermodel.*
 import org.apache.poi.ss.util.CellRangeAddress
-import org.apache.poi.xssf.usermodel.XSSFCell
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
 import java.awt.Desktop
 import java.io.File
@@ -337,9 +336,4 @@ class XLSXGenerate {
         }
     }
 
-}
-
-fun XSSFCell.style(cellStyle: CellStyle): XSSFCell {
-    setCellStyle(cellStyle)
-    return this
 }
