@@ -1,7 +1,6 @@
-package com.felix.lib
+package com.felix.lib.game
 
 import com.google.gson.Gson
-import com.google.gson.reflect.TypeToken
 import java.lang.reflect.Type
 
 internal class GsonManager {

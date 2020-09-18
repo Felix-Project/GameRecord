@@ -1,4 +1,4 @@
-package com.felix.lib
+package com.felix.lib.game
 
 import com.felix.lib.bean.GameMap
 import com.felix.lib.bean.ScoreLine

@@ -1,4 +1,4 @@
-package com.felix.lib
+package com.felix.lib.game
 
 import com.felix.lib.bean.GameMap
 import com.felix.lib.bean.ScoreLine
@@ -41,7 +41,11 @@ class XLSXGenerate {
                     arrayOf("s1", "s3", "s4", "s5").forEach { name ->
                         createSheet(
                             it,
-                            getScoreLineInSheet(workBook, name, gameMapList),
+                            getScoreLineInSheet(
+                                workBook,
+                                name,
+                                gameMapList
+                            ),
                             "${name.toUpperCase()}分数交流线"
                         )
                     }

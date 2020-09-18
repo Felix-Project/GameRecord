@@ -1,4 +1,4 @@
-package com.felix.lib
+package com.felix.lib.game
 
 import com.felix.lib.bean.GameMap
 import com.felix.lib.bean.ScoreLine
@@ -58,10 +58,39 @@ class Test {
                         println(it)
                     }
                 }
-                .also { getSheetResult(it, 1, "s1.txt", 0) }
-                .also { getSheetResult(it, 2, "s3.txt", 2) }
-                .also { getSheetResult(it, 3, "s4.txt", 1) }
-                .also { getSheetResult(it, 4, "s5.txt", 1, 1) }
+                .also {
+                    getSheetResult(
+                        it,
+                        1,
+                        "s1.txt",
+                        0
+                    )
+                }
+                .also {
+                    getSheetResult(
+                        it,
+                        2,
+                        "s3.txt",
+                        2
+                    )
+                }
+                .also {
+                    getSheetResult(
+                        it,
+                        3,
+                        "s4.txt",
+                        1
+                    )
+                }
+                .also {
+                    getSheetResult(
+                        it,
+                        4,
+                        "s5.txt",
+                        1,
+                        1
+                    )
+                }
 
 
         }

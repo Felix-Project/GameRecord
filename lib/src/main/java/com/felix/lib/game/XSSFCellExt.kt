@@ -1,4 +1,4 @@
-package com.felix.lib
+package com.felix.lib.game
 
 import org.apache.poi.ss.usermodel.CellStyle
 import org.apache.poi.xssf.usermodel.XSSFCell

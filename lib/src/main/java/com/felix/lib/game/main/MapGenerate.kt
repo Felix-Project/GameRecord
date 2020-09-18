@@ -1,8 +1,10 @@
-package com.felix.lib
+package com.felix.lib.game.main
 
 import com.felix.lib.bean.GameMap
 import com.felix.lib.bean.ScoreLine
 import com.felix.lib.bean.toFormatString
+import com.felix.lib.game.fromJson
+import com.felix.lib.game.style
 import com.google.gson.reflect.TypeToken
 import okio.buffer
 import okio.source

@@ -1,4 +1,4 @@
-package com.felix.lib.test
+package com.felix.lib.algorithm
 
 import java.util.regex.Pattern
 
