@@ -5,6 +5,7 @@ import android.graphics.BitmapFactory
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import com.liulishuo.filedownloader.FileDownloader
 import kotlinx.android.synthetic.main.main_aty.*
 import java.lang.ref.ReferenceQueue
 import java.lang.ref.WeakReference
@@ -45,5 +46,10 @@ class MainAty : AppCompatActivity() {
             }
         }
         Thread.sleep(20000)
+    }
+    fun test2() {
+        FileDownloader.getImpl().also {
+            it.setMaxNetworkThreadCount(4)
+        }.create("").start()
     }
 }

@@ -16,6 +16,19 @@ class SortCls {
             a = a xor a
             a = a xor a
 
+            val n=100
+            a=100
+            b=20
+            b=a+b   //120
+            a=a-b   //100
+            a=1
+            b=2
+            for (i in 2 until n) {
+                b=a+b
+                a=b-a
+            }
+
+
 
             println("b=$b,a=$a")
             "3".let {
