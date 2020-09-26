@@ -8,17 +8,16 @@ internal class GsonManager {
         val instance by lazy { GsonManager() }
     }
 
-    val gson: Gson
-
-    init {
-        gson = Gson()
-    }
+    val gson: Gson = Gson()
 }
 
-internal val GsonProxy
+val GsonProxy
     get() = GsonManager.instance.gson
 
-fun <T> T.toJson() = GsonProxy.toJson(this)
+inline fun <T> T.toJson() = GsonProxy.toJson(this) ?: "null"
 
-fun <T> String.fromJson(clazz: Class<T>) = GsonProxy.fromJson<T>(this, clazz)
-fun <T> String.fromJson(type: Type) = GsonProxy.fromJson<T>(this, type)
+inline fun <reified T> String.fromJson(): T =
+    GsonProxy.fromJson<T>(this, object : com.google.gson.reflect.TypeToken<T>() {}.type)
+
+@Deprecated("use String.fromJson()", ReplaceWith("this.fromJson<T>()"))
+inline fun <reified T> String.fromJson(type: Type) = this.fromJson<T>()

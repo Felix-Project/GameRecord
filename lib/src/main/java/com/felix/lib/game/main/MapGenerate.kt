@@ -3,10 +3,12 @@ package com.felix.lib.game.main
 import com.felix.lib.bean.GameMap
 import com.felix.lib.bean.ScoreLine
 import com.felix.lib.bean.toFormatString
+import com.felix.lib.bean.toFormatterJson
 import com.felix.lib.game.fromJson
 import com.felix.lib.game.style
 import com.google.gson.reflect.TypeToken
 import okio.buffer
+import okio.sink
 import okio.source
 import org.apache.poi.ss.usermodel.*
 import org.apache.poi.ss.util.CellRangeAddress
@@ -50,6 +52,11 @@ class MapGenerate {
                     //更新成绩
                     scoreLine.also {
                         it.gameMap = gameMaps.getOrDefault(it.gameMap.name, it.gameMap)
+                    }
+                }.also { scoreLine ->
+                    File(root, name + ".txt").outputStream().sink().buffer().let {
+                        it.writeUtf8(scoreLine.toFormatterJson())
+                        it.flush()
                     }
                 }.let {
                     ScoreLineHolder().apply {
