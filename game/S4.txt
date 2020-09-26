@@ -337,18 +337,6 @@
 	},
 	{
 		"gameMap":{
-			"id":49,
-			"name":"秘密机关的威胁",
-			"score":201.55
-		},
-		"pro":1.53,
-		"one":1.55,
-		"two":1.58,
-		"three":2.02,
-		"entertainment":2.06
-	},
-	{
-		"gameMap":{
 			"id":46,
 			"name":"冰峰裂谷",
 			"score":145.75
@@ -370,6 +358,18 @@
 		"two":1.42,
 		"three":1.45,
 		"entertainment":1.49
+	},
+	{
+		"gameMap":{
+			"id":49,
+			"name":"秘密机关的威胁",
+			"score":201.55
+		},
+		"pro":1.53,
+		"one":1.55,
+		"two":1.58,
+		"three":2.02,
+		"entertainment":2.06
 	},
 	{
 		"gameMap":{

@@ -37,6 +37,18 @@
 	},
 	{
 		"gameMap":{
+			"id":12,
+			"name":"灵岩环道",
+			"score":152.73
+		},
+		"pro":1.5,
+		"one":1.52,
+		"two":1.55,
+		"three":1.59,
+		"entertainment":2.02
+	},
+	{
+		"gameMap":{
 			"id":13,
 			"name":"迪拜富人区",
 			"score":151.65
@@ -49,15 +61,15 @@
 	},
 	{
 		"gameMap":{
-			"id":12,
-			"name":"灵岩环道",
-			"score":152.73
+			"id":18,
+			"name":"里约滑坡",
+			"score":113.11
 		},
-		"pro":1.5,
-		"one":1.52,
-		"two":1.55,
-		"three":1.59,
-		"entertainment":2.02
+		"pro":1.1,
+		"one":1.12,
+		"two":1.15,
+		"three":1.18,
+		"entertainment":1.21
 	},
 	{
 		"gameMap":{
@@ -73,15 +85,15 @@
 	},
 	{
 		"gameMap":{
-			"id":18,
-			"name":"里约滑坡",
-			"score":113.11
+			"id":34,
+			"name":"龙之遗迹",
+			"score":148.41
 		},
-		"pro":1.1,
-		"one":1.12,
-		"two":1.15,
-		"three":1.18,
-		"entertainment":1.21
+		"pro":1.43,
+		"one":1.45,
+		"two":1.49,
+		"three":1.53,
+		"entertainment":1.57
 	},
 	{
 		"gameMap":{
@@ -121,27 +133,39 @@
 	},
 	{
 		"gameMap":{
-			"id":34,
-			"name":"龙之遗迹",
-			"score":148.41
+			"id":39,
+			"name":"森林发夹",
+			"score":220.82
 		},
-		"pro":1.43,
-		"one":1.45,
-		"two":1.49,
-		"three":1.53,
-		"entertainment":1.57
+		"pro":2.15,
+		"one":2.17,
+		"two":2.19,
+		"three":2.24,
+		"entertainment":2.28
 	},
 	{
 		"gameMap":{
-			"id":45,
-			"name":"城镇公路",
-			"score":116.48
+			"id":40,
+			"name":"英特拉格斯",
+			"score":155.79
 		},
-		"pro":1.12,
-		"one":1.14,
-		"two":1.16,
-		"three":1.23,
-		"entertainment":1.25
+		"pro":1.51,
+		"one":1.53,
+		"two":1.56,
+		"three":2.02,
+		"entertainment":2.06
+	},
+	{
+		"gameMap":{
+			"id":41,
+			"name":"沙漠旋转工地",
+			"score":205.41
+		},
+		"pro":1.59,
+		"one":2.03,
+		"two":2.07,
+		"three":2.12,
+		"entertainment":2.16
 	},
 	{
 		"gameMap":{
@@ -169,51 +193,15 @@
 	},
 	{
 		"gameMap":{
-			"id":39,
-			"name":"森林发夹",
-			"score":220.82
+			"id":45,
+			"name":"城镇公路",
+			"score":116.48
 		},
-		"pro":2.15,
-		"one":2.17,
-		"two":2.19,
-		"three":2.24,
-		"entertainment":2.28
-	},
-	{
-		"gameMap":{
-			"id":41,
-			"name":"沙漠旋转工地",
-			"score":205.41
-		},
-		"pro":1.59,
-		"one":2.03,
-		"two":2.07,
-		"three":2.12,
-		"entertainment":2.16
-	},
-	{
-		"gameMap":{
-			"id":40,
-			"name":"英特拉格斯",
-			"score":155.79
-		},
-		"pro":1.51,
-		"one":1.53,
-		"two":1.56,
-		"three":2.02,
-		"entertainment":2.06
-	},
-	{
-		"gameMap":{
-			"id":53,
-			"name":"矿山曲折滑坡",
-			"score":122.96
-		},
-		"pro":1.13,
-		"one":1.16,
-		"two":1.19,
-		"three":1.25,
-		"entertainment":1.29
+		"pro":1.12,
+		"one":1.14,
+		"two":1.16,
+		"three":1.23,
+		"entertainment":1.25
 	},
 	{
 		"gameMap":{
@@ -226,6 +214,18 @@
 		"two":2.03,
 		"three":2.08,
 		"entertainment":2.13
+	},
+	{
+		"gameMap":{
+			"id":53,
+			"name":"矿山曲折滑坡",
+			"score":122.96
+		},
+		"pro":1.13,
+		"one":1.16,
+		"two":1.19,
+		"three":1.25,
+		"entertainment":1.29
 	},
 	{
 		"gameMap":{

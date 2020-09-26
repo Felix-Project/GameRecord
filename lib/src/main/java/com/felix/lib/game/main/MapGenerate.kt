@@ -43,7 +43,7 @@ class MapGenerate {
                 println("read data success.")
             }
         }.let { gameMaps ->
-            arrayOf("s1", "s3", "s4", "s5").map { name ->
+            arrayOf("s1", "s3", "s4", "s5", "s8").map { name ->
                 File(root, name + ".txt").let {
                     it.inputStream().source().buffer().readString(Charsets.UTF_8)
                 }.let {
@@ -55,7 +55,9 @@ class MapGenerate {
                     }
                 }.also { scoreLine ->
                     File(root, name + ".txt").outputStream().sink().buffer().let {
-                        it.writeUtf8(scoreLine.toFormatterJson())
+                        it.writeUtf8(scoreLine.sortedWith(Comparator { o1, o2 ->
+                            o1.gameMap.id - o2.gameMap.id
+                        }).toFormatterJson())
                         it.flush()
                     }
                 }.let {
