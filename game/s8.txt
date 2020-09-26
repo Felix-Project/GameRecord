@@ -484,7 +484,7 @@
 		"gameMap":{
 			"id":40,
 			"name":"纽约狂飙",
-			"score":220.82,
+			"score":129.12,
 			"topScore":124.16
 		},
 		"pro":1.26,

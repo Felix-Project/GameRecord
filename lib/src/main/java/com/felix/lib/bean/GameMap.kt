@@ -26,6 +26,17 @@ class GameMap {
             }
     }
 
+    fun getTopResult(): String {
+        return topScore.toFormatString()
+            .let {
+                StringBuilder()
+                    .append(it[0])
+                    .append(".")
+                    .append(it.substring(1))
+                    .toString()
+            }
+    }
+
 //    fun getShortScoreResult() {
 //        return score.toFormatString()
 //            .let {

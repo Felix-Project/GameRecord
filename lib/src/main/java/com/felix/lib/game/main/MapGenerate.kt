@@ -15,6 +15,7 @@ import org.apache.poi.ss.util.CellRangeAddress
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
 import java.awt.Desktop
 import java.io.File
+import kotlin.math.roundToInt
 
 class MapGenerate {
     val root = File("game")
@@ -43,7 +44,9 @@ class MapGenerate {
                 println("read data success.")
             }
         }.let { gameMaps ->
-            arrayOf("s1", "s3", "s4", "s5", "s8").map { name ->
+            arrayOf("s1", "s3", "s4", "s5", "s8").let {
+                it
+            }.map { name ->
                 File(root, name + ".txt").let {
                     it.inputStream().source().buffer().readString(Charsets.UTF_8)
                 }.let {
@@ -64,14 +67,67 @@ class MapGenerate {
                     ScoreLineHolder().apply {
                         this.scoreLineList = it
                         this.name = name + "交流分数线"
+                    }.also {
+                        println("${it.name} 初始化成功")
                     }
+                }
+            }.toMutableList().also { list ->
+                //国服记录
+                arrayOf(4, 5, 6, 7).map { name ->
+                    gameMaps.values.toList().sortedWith(Comparator { o1, o2 -> o1.id - o2.id })
+                        .map {
+                            ScoreLine().apply {
+                                this.gameMap = it
+                                val score = (it.topScore + 0.99f).toInt() / 100f
+                                this.pro = (score * 100 + name).toInt() / 100f
+                                if (this.pro - this.pro.toInt() >= 0.6f) {
+                                    this.pro = this.pro + 1f - 0.6f
+                                }
+                                this.pro = (this.pro * 100 + 0.99f).toInt() / 100f
+
+                                this.one = this.pro + 0.02f
+                                if (this.one - this.one.toInt() >= 0.6f) {
+                                    this.one = this.one + 1f - 0.6f
+                                }
+                                this.one = (this.one * 100 + 0.99f).toInt() / 100f
+
+                                this.two = this.one + 0.02f
+                                if (this.two - this.two.toInt() >= 0.6f) {
+                                    this.two = this.two + 1f - 0.6f
+                                }
+                                this.two = (this.two * 100 + 0.99f).toInt() / 100f
+
+                                this.three = this.two + 0.02f
+                                if (this.three - this.three.toInt() >= 0.6f) {
+                                    this.three = this.three + 1f - 0.6f
+                                }
+                                this.three = (this.three * 100 + 0.99f).toInt() / 100f
+
+
+                                this.entertainment = this.three + 0.02f
+                                if (this.entertainment - this.entertainment.toInt() >= 0.6f) {
+                                    this.entertainment = this.entertainment + 1f - 0.6f
+                                }
+                                this.entertainment =
+                                    (this.entertainment * 100 + 0.99f).toInt() / 100f
+                            }
+                        }.let {
+                            ScoreLineHolder().apply {
+                                this.scoreLineList = it
+                                this.name = "${name}分目标"
+                                this.titles = arrayOf("一线", "二线", "三线", "四线", "五线")
+                            }
+                        }.let {
+                            println("${it.name} 初始化成功")
+                            list.add(it)
+                        }
                 }
             }
         }.let { holders ->
             //创建excel文件
             XSSFWorkbook().apply {
                 holders.forEach {
-                    createSheet(this, it.scoreLineList, it.name)
+                    createSheet(this, it.scoreLineList, it.name, it.titles)
                     println("create ${it.name} success.")
                 }
             }
@@ -96,19 +152,26 @@ class MapGenerate {
         }
     }
 
-    fun createSheet(xssfWorkbook: XSSFWorkbook, scoreLineList: List<ScoreLine>, name: String) {
+    fun createSheet(
+        xssfWorkbook: XSSFWorkbook,
+        scoreLineList: List<ScoreLine>,
+        name: String,
+        title: Array<String>
+    ) {
         xssfWorkbook.createSheet(name).let { sheet ->
             val hasTitle = false
             val firstRowIndex = if (hasTitle) 2 else 1
             val headerRowIndex = if (hasTitle) 1 else 0
             val mapNameIndex = 1     //地图名列
             val scoreIndex = 7      //成绩列
-            val levelIndex = 8      //分数线等级列
-            val factionIndex = 9      //分数列
+            val topIndex = scoreIndex + 1      //国服列
+            val levelIndex = topIndex + 1     //分数线等级列
+            val factionIndex = levelIndex + 1      //分数列
             sheet.defaultColumnWidth = 5
             sheet.setColumnWidth(0, 4 * 256)
-            sheet.setColumnWidth(mapNameIndex, 16 * 256)
+            sheet.setColumnWidth(mapNameIndex, 18 * 256)
             sheet.setColumnWidth(scoreIndex, 8 * 256)
+            sheet.setColumnWidth(topIndex, 8 * 256)
             sheet.setColumnWidth(levelIndex, 10 * 256)
             sheet.defaultRowHeight = 2 * 256
             //设置标题
@@ -160,18 +223,10 @@ class MapGenerate {
                     .also {
                         it.height = 480
                     }.also {
-                        val datas = arrayListOf(
-                            "id",
-                            "地图",
-                            "主力",
-                            "一线",
-                            "二线",
-                            "三线",
-                            "娱乐",
-                            "成绩",
-                            "等级",
-                            "分数"
-                        )
+                        val datas = mutableListOf<String>()
+                        datas.addAll(arrayOf("id", "地图"))
+                        datas.addAll(title)
+                        datas.addAll(arrayOf("成绩", "国服", "等级", "分数"))
                         datas.forEachIndexed { index, s ->
                             it.createCell(index).style(style).setCellValue(s)
                         }
@@ -206,9 +261,7 @@ class MapGenerate {
                             scoreLine.three,
                             scoreLine.entertainment
                         )
-                        val values = arrayListOf(
-                            "主力", "一线", "二线", "三线", "娱乐"
-                        )
+                        val values = title
                         val colors = arrayListOf(
                             IndexedColors.LIGHT_GREEN,
                             IndexedColors.GREEN,
@@ -266,6 +319,7 @@ class MapGenerate {
                             scoreLine.three.toFormatString(),
                             scoreLine.entertainment.toFormatString(),
                             scoreLine.gameMap.getScoreResult(),
+                            scoreLine.gameMap.getTopResult(),
                             value,
                             faction.toString()
                         )
@@ -277,7 +331,7 @@ class MapGenerate {
                                 }.also {
                                     it.alignment = HorizontalAlignment.LEFT
                                 }
-                            } else if (index == scoreIndex) {
+                            } else if (index in arrayOf(scoreIndex, topIndex)) {
                                 style = xssfWorkbook.createCellStyle().also {
                                     it.cloneStyleFrom(cellStyle)
                                     it.setFillForegroundColor(IndexedColors.LIGHT_CORNFLOWER_BLUE.index)
@@ -343,4 +397,11 @@ class MapGenerate {
 class ScoreLineHolder {
     lateinit var scoreLineList: List<ScoreLine>
     lateinit var name: String
+    var titles: Array<String> = arrayOf(
+        "主力",
+        "一线",
+        "二线",
+        "三线",
+        "娱乐"
+    )
 }
