@@ -3,7 +3,8 @@
 		"gameMap":{
 			"id":1,
 			"name":"城镇高速公路",
-			"score":144.15
+			"score":144.15,
+			"topScore":144.15
 		},
 		"pro":1.4,
 		"one":1.42,
@@ -15,7 +16,8 @@
 		"gameMap":{
 			"id":2,
 			"name":"城镇南山",
-			"score":141.05
+			"score":141.05,
+			"topScore":141.05
 		},
 		"pro":1.36,
 		"one":1.38,
@@ -27,7 +29,8 @@
 		"gameMap":{
 			"id":3,
 			"name":"滨海风景",
-			"score":156.91
+			"score":156.91,
+			"topScore":156.91
 		},
 		"pro":1.53,
 		"one":1.55,
@@ -39,7 +42,8 @@
 		"gameMap":{
 			"id":6,
 			"name":"狮城狂飙",
-			"score":207.2
+			"score":207.2,
+			"topScore":207.2
 		},
 		"pro":2.02,
 		"one":2.04,
@@ -51,7 +55,8 @@
 		"gameMap":{
 			"id":7,
 			"name":"惊险飞机场",
-			"score":231.94
+			"score":231.94,
+			"topScore":231.94
 		},
 		"pro":2.25,
 		"one":2.27,
@@ -63,7 +68,8 @@
 		"gameMap":{
 			"id":8,
 			"name":"日光城",
-			"score":154.27
+			"score":154.27,
+			"topScore":154.27
 		},
 		"pro":1.49,
 		"one":1.51,
@@ -75,7 +81,8 @@
 		"gameMap":{
 			"id":12,
 			"name":"灵岩环道",
-			"score":152.73
+			"score":152.73,
+			"topScore":152.73
 		},
 		"pro":1.49,
 		"one":1.5,
@@ -87,7 +94,8 @@
 		"gameMap":{
 			"id":13,
 			"name":"迪拜富人区",
-			"score":151.65
+			"score":151.65,
+			"topScore":151.65
 		},
 		"pro":1.46,
 		"one":1.48,
@@ -99,7 +107,8 @@
 		"gameMap":{
 			"id":16,
 			"name":"野外修炼馆",
-			"score":136.59
+			"score":136.59,
+			"topScore":136.59
 		},
 		"pro":1.32,
 		"one":1.34,
@@ -111,7 +120,8 @@
 		"gameMap":{
 			"id":17,
 			"name":"城镇手指",
-			"score":127.81
+			"score":127.81,
+			"topScore":127.81
 		},
 		"pro":1.19,
 		"one":1.21,
@@ -123,7 +133,8 @@
 		"gameMap":{
 			"id":18,
 			"name":"里约滑坡",
-			"score":113.11
+			"score":113.11,
+			"topScore":113.11
 		},
 		"pro":1.1,
 		"one":1.11,
@@ -135,7 +146,8 @@
 		"gameMap":{
 			"id":20,
 			"name":"恐龙决斗场",
-			"score":159.41
+			"score":159.41,
+			"topScore":159.41
 		},
 		"pro":1.53,
 		"one":1.55,
@@ -147,7 +159,8 @@
 		"gameMap":{
 			"id":21,
 			"name":"浮空要塞",
-			"score":140.73
+			"score":140.73,
+			"topScore":140.73
 		},
 		"pro":1.32,
 		"one":1.34,
@@ -159,7 +172,8 @@
 		"gameMap":{
 			"id":22,
 			"name":"遗忘孤城",
-			"score":202.43
+			"score":202.43,
+			"topScore":202.43
 		},
 		"pro":1.55,
 		"one":1.57,
@@ -171,7 +185,8 @@
 		"gameMap":{
 			"id":23,
 			"name":"城镇命运之桥",
-			"score":214.35
+			"score":214.35,
+			"topScore":214.35
 		},
 		"pro":2.05,
 		"one":2.07,
@@ -183,7 +198,8 @@
 		"gameMap":{
 			"id":24,
 			"name":"龙之路",
-			"score":106.42
+			"score":106.42,
+			"topScore":106.42
 		},
 		"pro":1.03,
 		"one":1.05,
@@ -195,7 +211,8 @@
 		"gameMap":{
 			"id":26,
 			"name":"玩具工厂",
-			"score":115.74
+			"score":115.74,
+			"topScore":115.74
 		},
 		"pro":1.12,
 		"one":1.13,
@@ -207,7 +224,8 @@
 		"gameMap":{
 			"id":34,
 			"name":"龙之遗迹",
-			"score":148.41
+			"score":148.41,
+			"topScore":148.41
 		},
 		"pro":1.41,
 		"one":1.43,
@@ -219,7 +237,8 @@
 		"gameMap":{
 			"id":35,
 			"name":"万里长城",
-			"score":151.7
+			"score":151.7,
+			"topScore":151.7
 		},
 		"pro":1.44,
 		"one":1.46,
@@ -231,7 +250,8 @@
 		"gameMap":{
 			"id":36,
 			"name":"海盗绝壁海湾",
-			"score":202.33
+			"score":202.33,
+			"topScore":202.33
 		},
 		"pro":1.56,
 		"one":1.58,
@@ -243,7 +263,8 @@
 		"gameMap":{
 			"id":37,
 			"name":"海底神殿",
-			"score":228.27
+			"score":228.27,
+			"topScore":228.27
 		},
 		"pro":2.2,
 		"one":2.23,
@@ -255,7 +276,8 @@
 		"gameMap":{
 			"id":39,
 			"name":"森林发夹",
-			"score":220.82
+			"score":220.82,
+			"topScore":220.82
 		},
 		"pro":2.13,
 		"one":2.16,
@@ -267,7 +289,8 @@
 		"gameMap":{
 			"id":40,
 			"name":"英特拉格斯",
-			"score":155.79
+			"score":155.79,
+			"topScore":155.79
 		},
 		"pro":1.49,
 		"one":1.51,
@@ -279,7 +302,8 @@
 		"gameMap":{
 			"id":41,
 			"name":"沙漠旋转工地",
-			"score":205.41
+			"score":205.41,
+			"topScore":205.41
 		},
 		"pro":1.57,
 		"one":2.0,
@@ -291,7 +315,8 @@
 		"gameMap":{
 			"id":42,
 			"name":"大城堡秘密地下室",
-			"score":210.73
+			"score":210.73,
+			"topScore":210.73
 		},
 		"pro":2.0,
 		"one":2.03,
@@ -303,7 +328,8 @@
 		"gameMap":{
 			"id":43,
 			"name":"黄山赛道",
-			"score":115.31
+			"score":115.31,
+			"topScore":115.31
 		},
 		"pro":1.1,
 		"one":1.11,
@@ -315,7 +341,8 @@
 		"gameMap":{
 			"id":44,
 			"name":"海盗宝藏迷宫",
-			"score":211.87
+			"score":211.87,
+			"topScore":211.87
 		},
 		"pro":2.02,
 		"one":2.05,
@@ -327,7 +354,8 @@
 		"gameMap":{
 			"id":45,
 			"name":"城镇公路",
-			"score":116.48
+			"score":116.48,
+			"topScore":116.48
 		},
 		"pro":1.1,
 		"one":1.12,
@@ -339,7 +367,8 @@
 		"gameMap":{
 			"id":46,
 			"name":"冰峰裂谷",
-			"score":145.75
+			"score":145.75,
+			"topScore":145.75
 		},
 		"pro":1.36,
 		"one":1.38,
@@ -351,7 +380,8 @@
 		"gameMap":{
 			"id":47,
 			"name":"圣诞秘密空间",
-			"score":143.94
+			"score":143.94,
+			"topScore":143.94
 		},
 		"pro":1.37,
 		"one":1.39,
@@ -363,7 +393,8 @@
 		"gameMap":{
 			"id":49,
 			"name":"秘密机关的威胁",
-			"score":201.55
+			"score":201.55,
+			"topScore":201.55
 		},
 		"pro":1.53,
 		"one":1.55,
@@ -375,7 +406,8 @@
 		"gameMap":{
 			"id":51,
 			"name":"彩虹之门",
-			"score":211.49
+			"score":211.49,
+			"topScore":211.49
 		},
 		"pro":1.59,
 		"one":2.02,
@@ -387,7 +419,8 @@
 		"gameMap":{
 			"id":52,
 			"name":"太空蜿蜒跑道",
-			"score":201.31
+			"score":201.31,
+			"topScore":201.31
 		},
 		"pro":1.53,
 		"one":1.56,
@@ -399,7 +432,8 @@
 		"gameMap":{
 			"id":53,
 			"name":"矿山曲折滑坡",
-			"score":122.96
+			"score":122.96,
+			"topScore":122.96
 		},
 		"pro":1.13,
 		"one":1.15,
@@ -411,7 +445,8 @@
 		"gameMap":{
 			"id":54,
 			"name":"未完成的第五区",
-			"score":123.2
+			"score":123.2,
+			"topScore":123.2
 		},
 		"pro":1.18,
 		"one":1.2,
@@ -423,7 +458,8 @@
 		"gameMap":{
 			"id":55,
 			"name":"森林崎岖下山道",
-			"score":149.24
+			"score":149.24,
+			"topScore":149.24
 		},
 		"pro":1.36,
 		"one":1.39,
@@ -435,7 +471,8 @@
 		"gameMap":{
 			"id":56,
 			"name":"幽暗峡谷",
-			"score":201.67
+			"score":201.67,
+			"topScore":201.67
 		},
 		"pro":1.51,
 		"one":1.53,
@@ -447,7 +484,8 @@
 		"gameMap":{
 			"id":57,
 			"name":"冰山滑雪场",
-			"score":225.7
+			"score":225.7,
+			"topScore":225.7
 		},
 		"pro":2.13,
 		"one":2.16,

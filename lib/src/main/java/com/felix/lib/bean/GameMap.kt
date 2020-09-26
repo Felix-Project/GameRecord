@@ -14,6 +14,7 @@ class GameMap {
     var id: Int = 0
     var name: String = ""
     var score: Float = 0f
+    var topScore: Float = 0f
     fun getScoreResult(): String {
         return score.toFormatString()
             .let {

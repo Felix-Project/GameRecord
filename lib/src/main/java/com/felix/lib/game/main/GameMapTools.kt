@@ -21,6 +21,7 @@ class GameMapTools {
         str.fromJson<List<GameMap>>().also {
             it.forEachIndexed { index, gameMap ->
                 gameMap.id = index + 1
+                gameMap.topScore = gameMap.score
             }
         }.toJson()
 
