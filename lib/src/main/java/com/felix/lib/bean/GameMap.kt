@@ -16,25 +16,27 @@ class GameMap {
     var score: Float = 0f
     var topScore: Float = 0f
     fun getScoreResult(): String {
-        return score.toFormatString()
-            .let {
-                StringBuilder()
-                    .append(it[0])
-                    .append(".")
-                    .append(it.substring(1))
-                    .toString()
-            }
+        return score.takeIf { it >= 100 }?.let {
+            it.toFormatString()
+        }?.let {
+            StringBuilder()
+                .append(it[0])
+                .append(".")
+                .append(it.substring(1))
+                .toString()
+        } ?: score.toFormatString()
     }
 
     fun getTopResult(): String {
-        return topScore.toFormatString()
-            .let {
-                StringBuilder()
-                    .append(it[0])
-                    .append(".")
-                    .append(it.substring(1))
-                    .toString()
-            }
+        return topScore.takeIf { it >= 100 }?.let {
+            it.toFormatString()
+        }?.let {
+            StringBuilder()
+                .append(it[0])
+                .append(".")
+                .append(it.substring(1))
+                .toString()
+        } ?: topScore.toFormatString()
     }
 
 //    fun getShortScoreResult() {
