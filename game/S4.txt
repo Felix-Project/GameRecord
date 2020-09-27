@@ -471,7 +471,7 @@
 		"gameMap":{
 			"id":58,
 			"name":"幽暗峡谷",
-			"score":201.67,
+			"score":158.85,
 			"topScore":144.52
 		},
 		"pro":1.51,
