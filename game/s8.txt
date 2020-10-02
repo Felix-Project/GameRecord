@@ -3,7 +3,7 @@
 		"gameMap":{
 			"id":2,
 			"name":"城镇高速公路",
-			"score":144.15,
+			"score":143.86,
 			"topScore":138.31
 		},
 		"pro":1.39,
