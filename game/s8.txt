@@ -315,7 +315,7 @@
 		"gameMap":{
 			"id":27,
 			"name":"神秘研究所",
-			"score":212.39,
+			"score":212.0,
 			"topScore":203.4
 		},
 		"pro":2.05,
@@ -536,7 +536,7 @@
 		"gameMap":{
 			"id":44,
 			"name":"大城堡秘密地下室",
-			"score":210.73,
+			"score":210.57,
 			"topScore":156.36
 		},
 		"pro":1.58,
@@ -731,7 +731,7 @@
 		"gameMap":{
 			"id":59,
 			"name":"冰山滑雪场",
-			"score":225.7,
+			"score":224.48,
 			"topScore":210.4
 		},
 		"pro":2.12,

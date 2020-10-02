@@ -315,7 +315,7 @@
 		"gameMap":{
 			"id":44,
 			"name":"大城堡秘密地下室",
-			"score":210.73,
+			"score":210.57,
 			"topScore":156.36
 		},
 		"pro":2.0,
@@ -484,7 +484,7 @@
 		"gameMap":{
 			"id":59,
 			"name":"冰山滑雪场",
-			"score":225.7,
+			"score":224.48,
 			"topScore":210.4
 		},
 		"pro":2.13,
