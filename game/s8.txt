@@ -289,7 +289,7 @@
 		"gameMap":{
 			"id":25,
 			"name":"城镇命运之桥",
-			"score":214.35,
+			"score":212.76,
 			"topScore":200.7
 		},
 		"pro":2.03,
@@ -484,7 +484,7 @@
 		"gameMap":{
 			"id":40,
 			"name":"纽约狂飙",
-			"score":129.12,
+			"score":128.17,
 			"topScore":124.16
 		},
 		"pro":1.26,
@@ -536,7 +536,7 @@
 		"gameMap":{
 			"id":44,
 			"name":"大城堡秘密地下室",
-			"score":210.57,
+			"score":210.47,
 			"topScore":156.26
 		},
 		"pro":1.58,
