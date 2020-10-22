@@ -263,7 +263,7 @@
 		"gameMap":{
 			"id":37,
 			"name":"万里长城",
-			"score":151.7,
+			"score":149.57,
 			"topScore":139.84
 		},
 		"pro":1.43,
