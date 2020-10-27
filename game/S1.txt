@@ -55,7 +55,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":151.65,
+			"score":151.45,
 			"topScore":143.78
 		},
 		"pro":1.47,
@@ -94,7 +94,7 @@
 		"gameMap":{
 			"id":36,
 			"name":"龙之遗迹",
-			"score":148.41,
+			"score":146.46,
 			"topScore":137.47
 		},
 		"pro":1.43,
@@ -120,7 +120,7 @@
 		"gameMap":{
 			"id":38,
 			"name":"海盗绝壁海湾",
-			"score":202.33,
+			"score":200.93,
 			"topScore":151.13
 		},
 		"pro":1.57,
@@ -185,7 +185,7 @@
 		"gameMap":{
 			"id":44,
 			"name":"大城堡秘密地下室",
-			"score":210.47,
+			"score":208.31,
 			"topScore":156.26
 		},
 		"pro":2.04,
