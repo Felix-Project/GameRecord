@@ -94,7 +94,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":151.45,
+			"score":150.7,
 			"topScore":143.78
 		},
 		"pro":1.46,
@@ -133,7 +133,7 @@
 		"gameMap":{
 			"id":20,
 			"name":"里约滑坡",
-			"score":113.11,
+			"score":112.93,
 			"topScore":108.31
 		},
 		"pro":1.1,
@@ -211,7 +211,7 @@
 		"gameMap":{
 			"id":36,
 			"name":"龙之遗迹",
-			"score":146.46,
+			"score":146.07,
 			"topScore":137.47
 		},
 		"pro":1.42,
@@ -302,7 +302,7 @@
 		"gameMap":{
 			"id":44,
 			"name":"大城堡秘密地下室",
-			"score":208.31,
+			"score":205.89,
 			"topScore":156.26
 		},
 		"pro":2.01,
