@@ -146,7 +146,7 @@
 		"gameMap":{
 			"id":20,
 			"name":"里约滑坡",
-			"score":112.93,
+			"score":111.86,
 			"topScore":108.31
 		},
 		"pro":1.09,
