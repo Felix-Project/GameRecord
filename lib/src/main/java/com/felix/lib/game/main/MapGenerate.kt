@@ -15,7 +15,6 @@ import org.apache.poi.ss.util.CellRangeAddress
 import org.apache.poi.xssf.usermodel.XSSFWorkbook
 import java.awt.Desktop
 import java.io.File
-import kotlin.math.roundToInt
 
 class MapGenerate {
     val root = File("game")

@@ -3,7 +3,7 @@
 		"gameMap":{
 			"id":2,
 			"name":"城镇高速公路",
-			"score":143.86,
+			"score":143.79,
 			"topScore":138.31
 		},
 		"pro":1.41,
@@ -42,7 +42,7 @@
 		"gameMap":{
 			"id":13,
 			"name":"灵岩环道",
-			"score":152.73,
+			"score":152.24,
 			"topScore":146.83
 		},
 		"pro":1.5,
@@ -55,7 +55,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":150.7,
+			"score":150.51,
 			"topScore":143.78
 		},
 		"pro":1.47,
@@ -81,7 +81,7 @@
 		"gameMap":{
 			"id":22,
 			"name":"恐龙决斗场",
-			"score":159.41,
+			"score":159.3,
 			"topScore":150.96
 		},
 		"pro":1.55,
@@ -94,7 +94,7 @@
 		"gameMap":{
 			"id":36,
 			"name":"龙之遗迹",
-			"score":146.07,
+			"score":144.77,
 			"topScore":137.47
 		},
 		"pro":1.43,
@@ -159,7 +159,7 @@
 		"gameMap":{
 			"id":42,
 			"name":"英特拉格斯",
-			"score":155.79,
+			"score":155.06,
 			"topScore":146.41
 		},
 		"pro":1.51,
@@ -172,7 +172,7 @@
 		"gameMap":{
 			"id":43,
 			"name":"沙漠旋转工地",
-			"score":205.41,
+			"score":203.57,
 			"topScore":152.6
 		},
 		"pro":1.59,

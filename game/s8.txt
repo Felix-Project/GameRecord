@@ -3,7 +3,7 @@
 		"gameMap":{
 			"id":2,
 			"name":"城镇高速公路",
-			"score":143.86,
+			"score":143.79,
 			"topScore":138.31
 		},
 		"pro":1.39,
@@ -81,7 +81,7 @@
 		"gameMap":{
 			"id":8,
 			"name":"惊险飞机场",
-			"score":231.94,
+			"score":230.76,
 			"topScore":223.26
 		},
 		"pro":2.24,
@@ -94,7 +94,7 @@
 		"gameMap":{
 			"id":9,
 			"name":"日光城",
-			"score":154.27,
+			"score":154.18,
 			"topScore":146.47
 		},
 		"pro":1.47,
@@ -133,7 +133,7 @@
 		"gameMap":{
 			"id":12,
 			"name":"龙之西湖",
-			"score":159.82,
+			"score":159.38,
 			"topScore":151.45
 		},
 		"pro":1.53,
@@ -146,7 +146,7 @@
 		"gameMap":{
 			"id":13,
 			"name":"灵岩环道",
-			"score":152.73,
+			"score":152.24,
 			"topScore":146.83
 		},
 		"pro":1.48,
@@ -159,7 +159,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":150.7,
+			"score":150.51,
 			"topScore":143.78
 		},
 		"pro":1.45,
@@ -237,7 +237,7 @@
 		"gameMap":{
 			"id":21,
 			"name":"360塔楼",
-			"score":135.09,
+			"score":133.23,
 			"topScore":124.99
 		},
 		"pro":1.26,
@@ -250,7 +250,7 @@
 		"gameMap":{
 			"id":22,
 			"name":"恐龙决斗场",
-			"score":159.41,
+			"score":159.3,
 			"topScore":150.96
 		},
 		"pro":1.52,
@@ -263,7 +263,7 @@
 		"gameMap":{
 			"id":23,
 			"name":"浮空要塞",
-			"score":140.73,
+			"score":138.3,
 			"topScore":129.68
 		},
 		"pro":1.31,
@@ -341,7 +341,7 @@
 		"gameMap":{
 			"id":29,
 			"name":"龙之冰灯祭",
-			"score":128.48,
+			"score":126.62,
 			"topScore":115.78
 		},
 		"pro":1.17,
@@ -354,7 +354,7 @@
 		"gameMap":{
 			"id":30,
 			"name":"铃鹿赛道",
-			"score":155.71,
+			"score":154.6,
 			"topScore":147.43
 		},
 		"pro":1.48,
@@ -406,7 +406,7 @@
 		"gameMap":{
 			"id":34,
 			"name":"巴黎铁塔",
-			"score":207.73,
+			"score":207.4,
 			"topScore":157.95
 		},
 		"pro":2.0,
@@ -432,7 +432,7 @@
 		"gameMap":{
 			"id":36,
 			"name":"龙之遗迹",
-			"score":146.07,
+			"score":144.77,
 			"topScore":137.47
 		},
 		"pro":1.39,
@@ -510,7 +510,7 @@
 		"gameMap":{
 			"id":42,
 			"name":"英特拉格斯",
-			"score":155.79,
+			"score":155.06,
 			"topScore":146.41
 		},
 		"pro":1.48,
@@ -523,7 +523,7 @@
 		"gameMap":{
 			"id":43,
 			"name":"沙漠旋转工地",
-			"score":205.41,
+			"score":203.57,
 			"topScore":152.6
 		},
 		"pro":1.55,
@@ -601,7 +601,7 @@
 		"gameMap":{
 			"id":49,
 			"name":"圣诞秘密空间",
-			"score":143.94,
+			"score":143.2,
 			"topScore":134.62
 		},
 		"pro":1.36,
@@ -653,7 +653,7 @@
 		"gameMap":{
 			"id":53,
 			"name":"彩虹之门",
-			"score":211.49,
+			"score":208.39,
 			"topScore":152.91
 		},
 		"pro":1.55,
@@ -705,7 +705,7 @@
 		"gameMap":{
 			"id":57,
 			"name":"森林崎岖下山道",
-			"score":149.24,
+			"score":147.68,
 			"topScore":131.81
 		},
 		"pro":1.34,
