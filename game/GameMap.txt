@@ -311,62 +311,62 @@
         "score":201.55,
         "topScore":148.14
     },
-         {
-             "id":53,
-             "name":"街头狂飙",
-             "score":218.73,
-             "topScore":204.24
-         },
-              {
-                  "id":53,
-                  "name":"海盗峭壁瞭望塔",
-                  "score":151.94,
-                  "topScore":142.45
-              },
+    {
+        "id":53,
+        "name":"街头狂飙",
+        "score":218.73,
+        "topScore":204.24
+    },
     {
         "id":54,
+        "name":"海盗峭壁瞭望塔",
+        "score":151.94,
+        "topScore":142.45
+    },
+    {
+        "id":55,
         "name":"彩虹之门",
         "score":208.39,
         "topScore":152.91
     },
     {
-        "id":55,
+        "id":56,
         "name":"太空蜿蜒跑道",
         "score":201.31,
         "topScore":148.96
     },
     {
-        "id":56,
+        "id":57,
         "name":"矿山曲折滑坡",
         "score":122.96,
         "topScore":109.99
     },
     {
-        "id":57,
+        "id":58,
         "name":"未完成的第五区",
         "score":123.2,
         "topScore":114.60
     },
     {
-        "id":58,
+        "id":59,
         "name":"森林崎岖下山道",
         "score":147.68,
         "topScore":131.26
     },
     {
-        "id":59,
+        "id":60,
         "name":"幽暗峡谷",
         "score":158.85,
         "topScore":144.17
     },
     {
-        "id":60,
+        "id":61,
         "name":"冰山滑雪场",
         "score":224.48,
         "topScore":210.18
     },
     {
-        "id":61,
+        "id":62,
         "name":"森林发夹(反向)",
         "score":221.68,
         "topScore":206.68
