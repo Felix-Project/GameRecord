@@ -6,7 +6,6 @@ import com.felix.lib.bean.toFormatString
 import com.felix.lib.bean.toFormatterJson
 import com.felix.lib.game.fromJson
 import com.felix.lib.game.style
-import com.google.gson.reflect.TypeToken
 import okio.buffer
 import okio.sink
 import okio.source
@@ -32,7 +31,7 @@ class MapGenerate {
             it.inputStream().source().buffer().readString(Charsets.UTF_8)
         }.let {
             //转成数据对象
-            it.fromJson<List<GameMap>>(object : TypeToken<List<GameMap>>() {}.type)
+            it.fromJson<List<GameMap>>()
         }.let {
             //转成map存储
             hashMapOf<String, GameMap>().apply {
@@ -43,20 +42,21 @@ class MapGenerate {
                 println("read data success.")
             }
         }.let { gameMaps ->
-            arrayOf("s1", "s3", "s4", "s5", "s8").let {
-                it
-            }.map { name ->
-                File(root, name + ".txt").let {
+            File(root, "score").listFiles().map { file ->
+                val name = file.name.let {
+                    it.subSequence(0, it.lastIndexOf("."))
+                }.toString()
+                file.let {
                     it.inputStream().source().buffer().readString(Charsets.UTF_8)
                 }.let {
-                    it.fromJson<List<ScoreLine>>(object : TypeToken<List<ScoreLine>>() {}.type)
+                    it.fromJson<List<ScoreLine>>()
                 }.map { scoreLine ->
                     //更新成绩
                     scoreLine.also {
                         it.gameMap = gameMaps.getOrDefault(it.gameMap.name, it.gameMap)
                     }
                 }.also { scoreLine ->
-                    File(root, name + ".txt").outputStream().sink().buffer().let {
+                    file.outputStream().sink().buffer().let {
                         it.writeUtf8(scoreLine.sortedWith(Comparator { o1, o2 ->
                             o1.gameMap.id - o2.gameMap.id
                         }).toFormatterJson())
