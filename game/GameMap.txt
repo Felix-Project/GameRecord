@@ -9,7 +9,7 @@
         "id":2,
         "name":"城镇高速公路",
         "score":143.79,
-        "topScore":138.19
+        "topScore":137.87
     },
     {
         "id":3,
@@ -39,7 +39,7 @@
         "id":7,
         "name":"狮城狂飙",
         "score":207.2,
-        "topScore":159.81
+        "topScore":159.56
     },
     {
         "id":8,
@@ -87,7 +87,7 @@
         "id":15,
         "name":"迪拜富人区",
         "score":150.51,
-        "topScore":143.38
+        "topScore":143.32
     },
     {
         "id":16,
@@ -117,13 +117,13 @@
         "id":20,
         "name":"里约滑坡",
         "score":111.86,
-        "topScore":108.19
+        "topScore":107.84
     },
     {
         "id":21,
         "name":"360塔楼",
         "score":133.23,
-        "topScore":124.92
+        "topScore":124.82
     },
     {
         "id":22,
@@ -141,19 +141,19 @@
         "id":24,
         "name":"遗忘孤城",
         "score":159.46,
-        "topScore":151.82
+        "topScore":151.70
     },
     {
         "id":25,
         "name":"城镇命运之桥",
         "score":212.76,
-        "topScore":200.7
+        "topScore":200.3
     },
     {
         "id":26,
         "name":"龙之路",
         "score":106.42,
-        "topScore":100.92
+        "topScore":100.80
     },
     {
         "id":27,
@@ -165,7 +165,7 @@
         "id":28,
         "name":"玩具工厂",
         "score":115.74,
-        "topScore":107.85
+        "topScore":107.73
     },
     {
         "id":29,
@@ -183,7 +183,7 @@
         "id":31,
         "name":"太空军用机场",
         "score":201.97,
-        "topScore":148.76
+        "topScore":148.58
     },
     {
         "id":32,
@@ -213,7 +213,7 @@
         "id":36,
         "name":"龙之西湖",
         "score":159.38,
-        "topScore":151.45
+        "topScore":150.30
     },
     {
         "id":37,
@@ -231,13 +231,13 @@
         "id":39,
         "name":"海盗绝壁海湾",
         "score":200.93,
-        "topScore":150.88
+        "topScore":150.38
     },
     {
         "id":40,
         "name":"海底神殿",
         "score":228.27,
-        "topScore":216.01
+        "topScore":215.90
     },
     {
         "id":41,
@@ -311,12 +311,18 @@
         "score":201.55,
         "topScore":148.14
     },
-    {
-        "id":53,
-        "name":"街头狂飙",
-        "score":218.73,
-        "topScore":204.24
-    },
+         {
+             "id":53,
+             "name":"街头狂飙",
+             "score":218.73,
+             "topScore":204.24
+         },
+              {
+                  "id":53,
+                  "name":"海盗峭壁瞭望塔",
+                  "score":151.94,
+                  "topScore":142.45
+              },
     {
         "id":54,
         "name":"彩虹之门",
