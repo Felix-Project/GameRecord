@@ -42,7 +42,9 @@ class MapGenerate {
                 println("read data success.")
             }
         }.let { gameMaps ->
-            File(root, "score").listFiles().map { file ->
+            File(root, "score").listFiles().also {
+                it.sortBy { it.name }
+            }.map { file ->
                 val name = file.name.let {
                     it.subSequence(0, it.lastIndexOf("."))
                 }.toString()
@@ -76,6 +78,7 @@ class MapGenerate {
                         println("${it.name} 初始化成功")
                     }
                     arrayOf(normal, classic)
+                    arrayOf(classic)
                 }
             }.toMutableList().let { list ->
                 val result = mutableListOf<ScoreLineHolder>()
@@ -87,7 +90,7 @@ class MapGenerate {
                 result
             }.also { list ->
                 //国服记录
-                arrayOf(4, 5, 6, 7).map { name ->
+                arrayOf(4, 5, 6, 7).filter { it == 0 }.map { name ->
                     gameMaps.values.toList().sortedWith(Comparator { o1, o2 -> o1.id - o2.id })
                         .map {
                             ScoreLine().apply {
