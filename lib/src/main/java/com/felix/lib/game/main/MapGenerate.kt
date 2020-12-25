@@ -63,14 +63,29 @@ class MapGenerate {
                         it.flush()
                     }
                 }.let {
-                    ScoreLineHolder().apply {
+                    val normal = ScoreLineHolder().apply {
                         this.scoreLineList = it
                         this.name = name + "交流分数线"
                     }.also {
                         println("${it.name} 初始化成功")
                     }
+                    val classic = ScoreLineHolder().apply {
+                        this.scoreLineList = it.filter { it.gameMap.classic }
+                        this.name = "经典" + name + "交流分数线"
+                    }.also {
+                        println("${it.name} 初始化成功")
+                    }
+                    arrayOf(normal, classic)
                 }
-            }.toMutableList().also { list ->
+            }.toMutableList().let { list ->
+                val result = mutableListOf<ScoreLineHolder>()
+                list.forEach { array ->
+                    array.forEach {
+                        result.add(it)
+                    }
+                }
+                result
+            }.also { list ->
                 //国服记录
                 arrayOf(4, 5, 6, 7).map { name ->
                     gameMaps.values.toList().sortedWith(Comparator { o1, o2 -> o1.id - o2.id })
