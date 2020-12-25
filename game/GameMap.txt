@@ -304,7 +304,7 @@
         "id":44,
         "name":"沙漠旋转工地",
         "score":203.57,
-        "topScore":152.46,
+        "topScore":151.83,
         "classic":true
     },
     {
@@ -402,7 +402,7 @@
         "id":58,
         "name":"未完成的第五区",
         "score":123.2,
-        "topScore":114.6,
+        "topScore":114.48,
         "classic":false
     },
     {
