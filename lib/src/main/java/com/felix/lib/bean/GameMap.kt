@@ -15,6 +15,7 @@ class GameMap {
     var name: String = ""
     var score: Float = 0f
     var topScore: Float = 0f
+    var classic = false
     fun getScoreResult(): String {
         return score.takeIf { it >= 100 }?.let {
             it.toFormatString()
