@@ -81,7 +81,7 @@
 		"gameMap":{
 			"id":11,
 			"name":"龙之运河",
-			"score":213.5,
+			"score":210.37,
 			"topScore":202.06
 		},
 		"pro":2.05,
@@ -367,7 +367,7 @@
 		"gameMap":{
 			"id":47,
 			"name":"海盗宝藏迷宫",
-			"score":211.87,
+			"score":210.58,
 			"topScore":157.16
 		},
 		"pro":2.02,
