@@ -1,4 +1,4 @@
-package com.felix.lib.algorithm
+package com.felix.algorithm
 
 class TestCls6 {
     companion object{

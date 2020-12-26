@@ -1,4 +1,4 @@
-package com.felix.lib.algorithm
+package com.felix.algorithm
 
 class LeetCode7 {
     /*给定一个二叉树

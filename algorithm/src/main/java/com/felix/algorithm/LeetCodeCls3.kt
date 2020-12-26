@@ -1,6 +1,6 @@
-package com.felix.lib.algorithm
+package com.felix.algorithm
 
-import com.felix.lib.algorithm.ext.println
+import com.felix.algorithm.ext.println
 
 class LeetCodeCls3 {
     companion object {

@@ -1,4 +1,4 @@
-package com.felix.lib.algorithm.ext
+package com.felix.algorithm.ext
 
 
 fun List<Int>.print() {
@@ -34,6 +34,23 @@ fun List<List<Int>>.printList() {
 }
 
 fun List<List<Int>>.printListln() {
+    this.printList()
+    println()
+}
+
+fun IntArray.printList() {
+    if (this.isEmpty()) {
+        print("[]")
+        return
+    }
+    print("[${this[0]}")
+    for (i in 1 until size) {
+        print(",${this[i]}")
+    }
+    print("]")
+}
+
+fun IntArray.printListLn() {
     this.printList()
     println()
 }

@@ -1,2 +1,3 @@
+include ':algorithm'
 include ':app', ':lib'
 rootProject.name='GameRecord'
