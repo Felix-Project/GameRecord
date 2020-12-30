@@ -415,7 +415,7 @@
     {
         "id":60,
         "name":"幽暗峡谷",
-        "score":158.85,
+        "score":157.11,
         "topScore":144.17,
         "classic":true
     },
