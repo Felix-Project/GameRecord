@@ -50,10 +50,10 @@
 			"classic":false
 		},
 		"pro":1.26,
-		"one":1.27,
-		"two":1.29,
-		"three":1.31,
-		"entertainment":1.33
+		"one":1.28,
+		"two":1.3,
+		"three":1.32,
+		"entertainment":1.34
 	},
 	{
 		"gameMap":{
@@ -81,7 +81,7 @@
 		"one":2.03,
 		"two":2.05,
 		"three":2.07,
-		"entertainment":2.1
+		"entertainment":2.09
 	},
 	{
 		"gameMap":{
@@ -113,20 +113,6 @@
 	},
 	{
 		"gameMap":{
-			"id":10,
-			"name":"龙之宫殿",
-			"score":129.23,
-			"topScore":121.44,
-			"classic":false
-		},
-		"pro":1.23,
-		"one":1.25,
-		"two":1.27,
-		"three":1.29,
-		"entertainment":1.31
-	},
-	{
-		"gameMap":{
 			"id":11,
 			"name":"龙之运河",
 			"score":210.37,
@@ -148,9 +134,9 @@
 			"classic":true
 		},
 		"pro":1.48,
-		"one":1.49,
-		"two":1.51,
-		"three":1.53,
+		"one":1.5,
+		"two":1.52,
+		"three":1.54,
 		"entertainment":1.56
 	},
 	{
@@ -160,34 +146,6 @@
 			"score":149.93,
 			"topScore":143.32,
 			"classic":true
-		},
-		"pro":1.45,
-		"one":1.47,
-		"two":1.49,
-		"three":1.51,
-		"entertainment":1.53
-	},
-	{
-		"gameMap":{
-			"id":16,
-			"name":"巴黎风情",
-			"score":134.21,
-			"topScore":125.24,
-			"classic":false
-		},
-		"pro":1.26,
-		"one":1.28,
-		"two":1.3,
-		"three":1.33,
-		"entertainment":1.35
-	},
-	{
-		"gameMap":{
-			"id":17,
-			"name":"滨海火车",
-			"score":154.46,
-			"topScore":142.53,
-			"classic":false
 		},
 		"pro":1.44,
 		"one":1.46,
@@ -207,7 +165,7 @@
 		"one":1.32,
 		"two":1.34,
 		"three":1.36,
-		"entertainment":1.39
+		"entertainment":1.38
 	},
 	{
 		"gameMap":{
@@ -231,7 +189,7 @@
 			"topScore":107.84,
 			"classic":false
 		},
-		"pro":1.09,
+		"pro":1.08,
 		"one":1.1,
 		"two":1.12,
 		"three":1.14,
@@ -248,8 +206,8 @@
 		"pro":1.26,
 		"one":1.28,
 		"two":1.3,
-		"three":1.31,
-		"entertainment":1.35
+		"three":1.32,
+		"entertainment":1.34
 	},
 	{
 		"gameMap":{
@@ -259,11 +217,11 @@
 			"topScore":149.02,
 			"classic":true
 		},
-		"pro":1.52,
-		"one":1.54,
-		"two":1.56,
-		"three":1.59,
-		"entertainment":2.02
+		"pro":1.51,
+		"one":1.53,
+		"two":1.55,
+		"three":1.57,
+		"entertainment":1.59
 	},
 	{
 		"gameMap":{
@@ -275,9 +233,9 @@
 		},
 		"pro":1.31,
 		"one":1.33,
-		"two":1.36,
-		"three":1.39,
-		"entertainment":1.42
+		"two":1.35,
+		"three":1.37,
+		"entertainment":1.39
 	},
 	{
 		"gameMap":{
@@ -287,11 +245,11 @@
 			"topScore":151.7,
 			"classic":true
 		},
-		"pro":1.54,
-		"one":1.56,
-		"two":1.58,
-		"three":2.01,
-		"entertainment":2.05
+		"pro":1.53,
+		"one":1.55,
+		"two":1.57,
+		"three":2.0,
+		"entertainment":2.02
 	},
 	{
 		"gameMap":{
@@ -303,9 +261,9 @@
 		},
 		"pro":2.03,
 		"one":2.05,
-		"two":2.08,
-		"three":2.11,
-		"entertainment":2.14
+		"two":2.07,
+		"three":2.09,
+		"entertainment":2.11
 	},
 	{
 		"gameMap":{
@@ -316,10 +274,10 @@
 			"classic":false
 		},
 		"pro":1.02,
-		"one":1.03,
-		"two":1.04,
-		"three":1.06,
-		"entertainment":1.09
+		"one":1.04,
+		"two":1.06,
+		"three":1.08,
+		"entertainment":1.1
 	},
 	{
 		"gameMap":{
@@ -333,7 +291,7 @@
 		"one":2.07,
 		"two":2.09,
 		"three":2.11,
-		"entertainment":2.14
+		"entertainment":2.13
 	},
 	{
 		"gameMap":{
@@ -347,21 +305,7 @@
 		"one":1.11,
 		"two":1.13,
 		"three":1.15,
-		"entertainment":1.18
-	},
-	{
-		"gameMap":{
-			"id":29,
-			"name":"龙之冰灯祭",
-			"score":126.62,
-			"topScore":115.67,
-			"classic":false
-		},
-		"pro":1.17,
-		"one":1.19,
-		"two":1.21,
-		"three":1.23,
-		"entertainment":1.26
+		"entertainment":1.17
 	},
 	{
 		"gameMap":{
@@ -374,8 +318,8 @@
 		"pro":1.48,
 		"one":1.5,
 		"two":1.52,
-		"three":1.55,
-		"entertainment":1.58
+		"three":1.54,
+		"entertainment":1.56
 	},
 	{
 		"gameMap":{
@@ -389,7 +333,7 @@
 		"one":1.53,
 		"two":1.55,
 		"three":1.57,
-		"entertainment":2.0
+		"entertainment":1.59
 	},
 	{
 		"gameMap":{
@@ -429,9 +373,9 @@
 		},
 		"pro":2.0,
 		"one":2.02,
-		"two":2.05,
-		"three":2.08,
-		"entertainment":2.12
+		"two":2.04,
+		"three":2.06,
+		"entertainment":2.08
 	},
 	{
 		"gameMap":{
@@ -444,8 +388,8 @@
 		"pro":1.02,
 		"one":1.04,
 		"two":1.06,
-		"three":1.09,
-		"entertainment":1.11
+		"three":1.08,
+		"entertainment":1.1
 	},
 	{
 		"gameMap":{
@@ -457,9 +401,9 @@
 		},
 		"pro":1.53,
 		"one":1.55,
-		"two":1.58,
-		"three":2.01,
-		"entertainment":2.04
+		"two":1.57,
+		"three":1.59,
+		"entertainment":2.01
 	},
 	{
 		"gameMap":{
@@ -473,7 +417,7 @@
 		"one":1.41,
 		"two":1.43,
 		"three":1.45,
-		"entertainment":1.49
+		"entertainment":1.46
 	},
 	{
 		"gameMap":{
@@ -486,7 +430,7 @@
 		"pro":1.42,
 		"one":1.44,
 		"two":1.46,
-		"three":1.47,
+		"three":1.48,
 		"entertainment":1.5
 	},
 	{
@@ -497,11 +441,11 @@
 			"topScore":150.38,
 			"classic":true
 		},
-		"pro":1.54,
-		"one":1.56,
-		"two":1.59,
+		"pro":1.53,
+		"one":1.58,
+		"two":2.0,
 		"three":2.02,
-		"entertainment":2.06
+		"entertainment":2.04
 	},
 	{
 		"gameMap":{
@@ -513,9 +457,9 @@
 		},
 		"pro":2.18,
 		"one":2.21,
-		"two":2.24,
-		"three":2.26,
-		"entertainment":2.28
+		"two":2.23,
+		"three":2.25,
+		"entertainment":2.27
 	},
 	{
 		"gameMap":{
@@ -528,8 +472,8 @@
 		"pro":1.26,
 		"one":1.28,
 		"two":1.3,
-		"three":1.33,
-		"entertainment":1.36
+		"three":1.32,
+		"entertainment":1.34
 	},
 	{
 		"gameMap":{
@@ -541,9 +485,9 @@
 		},
 		"pro":2.11,
 		"one":2.13,
-		"two":2.16,
-		"three":2.19,
-		"entertainment":2.22
+		"two":2.15,
+		"three":2.17,
+		"entertainment":2.19
 	},
 	{
 		"gameMap":{
@@ -557,7 +501,7 @@
 		"one":1.5,
 		"two":1.52,
 		"three":1.54,
-		"entertainment":1.57
+		"entertainment":1.56
 	},
 	{
 		"gameMap":{
@@ -570,8 +514,8 @@
 		"pro":1.55,
 		"one":1.57,
 		"two":1.59,
-		"three":2.02,
-		"entertainment":2.06
+		"three":2.01,
+		"entertainment":2.03
 	},
 	{
 		"gameMap":{
@@ -583,9 +527,9 @@
 		},
 		"pro":1.58,
 		"one":2.0,
-		"two":2.03,
-		"three":2.05,
-		"entertainment":2.08
+		"two":2.02,
+		"three":2.04,
+		"entertainment":2.06
 	},
 	{
 		"gameMap":{
@@ -598,8 +542,8 @@
 		"pro":1.08,
 		"one":1.09,
 		"two":1.11,
-		"three":1.14,
-		"entertainment":1.17
+		"three":1.13,
+		"entertainment":1.15
 	},
 	{
 		"gameMap":{
@@ -610,10 +554,10 @@
 			"classic":true
 		},
 		"pro":2.0,
-		"one":2.03,
-		"two":2.05,
-		"three":2.07,
-		"entertainment":2.11
+		"one":2.02,
+		"two":2.04,
+		"three":2.06,
+		"entertainment":2.08
 	},
 	{
 		"gameMap":{
@@ -627,7 +571,7 @@
 		"one":1.11,
 		"two":1.13,
 		"three":1.15,
-		"entertainment":1.18
+		"entertainment":1.17
 	},
 	{
 		"gameMap":{
@@ -639,9 +583,9 @@
 		},
 		"pro":1.34,
 		"one":1.36,
-		"two":1.39,
-		"three":1.42,
-		"entertainment":1.46
+		"two":1.38,
+		"three":1.4,
+		"entertainment":1.42
 	},
 	{
 		"gameMap":{
@@ -654,8 +598,8 @@
 		"pro":1.36,
 		"one":1.38,
 		"two":1.4,
-		"three":1.43,
-		"entertainment":1.46
+		"three":1.42,
+		"entertainment":1.44
 	},
 	{
 		"gameMap":{
@@ -668,8 +612,8 @@
 		"pro":1.36,
 		"one":1.38,
 		"two":1.4,
-		"three":1.43,
-		"entertainment":1.47
+		"three":1.42,
+		"entertainment":1.44
 	},
 	{
 		"gameMap":{
@@ -683,7 +627,7 @@
 		"one":1.53,
 		"two":1.55,
 		"three":1.57,
-		"entertainment":2.0
+		"entertainment":1.59
 	},
 	{
 		"gameMap":{
@@ -695,9 +639,23 @@
 		},
 		"pro":2.07,
 		"one":2.09,
-		"two":2.13,
-		"three":2.16,
-		"entertainment":2.2
+		"two":2.11,
+		"three":2.13,
+		"entertainment":2.15
+	},
+	{
+		"gameMap":{
+			"id":54,
+			"name":"海盗峭壁瞭望塔",
+			"score":151.94,
+			"topScore":142.45,
+			"classic":false
+		},
+		"pro":1.44,
+		"one":1.46,
+		"two":1.48,
+		"three":1.5,
+		"entertainment":1.52
 	},
 	{
 		"gameMap":{
@@ -708,10 +666,10 @@
 			"classic":false
 		},
 		"pro":1.55,
-		"one":1.58,
-		"two":2.0,
-		"three":2.04,
-		"entertainment":2.09
+		"one":1.57,
+		"two":1.59,
+		"three":2.01,
+		"entertainment":2.03
 	},
 	{
 		"gameMap":{
@@ -723,9 +681,9 @@
 		},
 		"pro":1.52,
 		"one":1.54,
-		"two":1.57,
-		"three":2.0,
-		"entertainment":2.04
+		"two":1.56,
+		"three":1.58,
+		"entertainment":2.0
 	},
 	{
 		"gameMap":{
@@ -738,8 +696,8 @@
 		"pro":1.12,
 		"one":1.14,
 		"two":1.16,
-		"three":1.19,
-		"entertainment":1.23
+		"three":1.18,
+		"entertainment":1.2
 	},
 	{
 		"gameMap":{
@@ -753,7 +711,7 @@
 		"one":1.18,
 		"two":1.2,
 		"three":1.22,
-		"entertainment":1.26
+		"entertainment":1.24
 	},
 	{
 		"gameMap":{
@@ -765,9 +723,9 @@
 		},
 		"pro":1.34,
 		"one":1.37,
-		"two":1.4,
-		"three":1.43,
-		"entertainment":1.47
+		"two":1.39,
+		"three":1.41,
+		"entertainment":1.43
 	},
 	{
 		"gameMap":{
@@ -779,9 +737,9 @@
 		},
 		"pro":1.46,
 		"one":1.49,
-		"two":1.52,
-		"three":1.56,
-		"entertainment":2.0
+		"two":1.51,
+		"three":1.53,
+		"entertainment":1.55
 	},
 	{
 		"gameMap":{
@@ -793,9 +751,9 @@
 		},
 		"pro":2.12,
 		"one":2.15,
-		"two":2.18,
-		"three":2.21,
-		"entertainment":2.24
+		"two":2.17,
+		"three":2.19,
+		"entertainment":2.21
 	},
 	{
 		"gameMap":{
@@ -807,8 +765,8 @@
 		},
 		"pro":2.1,
 		"one":2.13,
-		"two":2.16,
-		"three":2.19,
-		"entertainment":2.23
+		"two":2.15,
+		"three":2.17,
+		"entertainment":2.19
 	}
 ]

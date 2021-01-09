@@ -31,7 +31,7 @@
 		"gameMap":{
 			"id":4,
 			"name":"滨海风景",
-			"score":156.91,
+			"score":155.8,
 			"topScore":150.77,
 			"classic":false
 		},
@@ -45,7 +45,7 @@
 		"gameMap":{
 			"id":7,
 			"name":"狮城狂飙",
-			"score":207.2,
+			"score":205.96,
 			"topScore":159.56,
 			"classic":true
 		},
@@ -87,7 +87,7 @@
 		"gameMap":{
 			"id":13,
 			"name":"灵岩环道",
-			"score":152.24,
+			"score":151.98,
 			"topScore":146.69,
 			"classic":true
 		},
@@ -101,7 +101,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":150.51,
+			"score":149.93,
 			"topScore":143.32,
 			"classic":true
 		},
@@ -157,7 +157,7 @@
 		"gameMap":{
 			"id":22,
 			"name":"恐龙决斗场",
-			"score":159.3,
+			"score":156.94,
 			"topScore":149.02,
 			"classic":true
 		},
@@ -185,7 +185,7 @@
 		"gameMap":{
 			"id":24,
 			"name":"遗忘孤城",
-			"score":159.46,
+			"score":158.56,
 			"topScore":151.7,
 			"classic":true
 		},
@@ -479,7 +479,7 @@
 		"gameMap":{
 			"id":60,
 			"name":"幽暗峡谷",
-			"score":158.85,
+			"score":157.11,
 			"topScore":144.17,
 			"classic":true
 		},
