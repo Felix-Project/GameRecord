@@ -43,7 +43,13 @@ class MapGenerate {
             }
         }.let { gameMaps ->
             File(root, "score").listFiles().also {
-                it.sortBy { it.name }
+                val regex = Regex("[a-zA-Z.]+")
+                it.sortBy {
+//                    it.name.replace(regex, "").runCatching { this.toInt() }.also {
+//                        it.exceptionOrNull()?.printStackTrace()
+//                    }.getOrDefault(-1)
+                    it.name
+                }
             }.map { file ->
                 val name = file.name.let {
                     it.subSequence(0, it.lastIndexOf("."))
