@@ -19,6 +19,8 @@ class MapGenerate {
     val root = File("game")
 
     companion object {
+        const val LEVEL = 8
+
         @JvmStatic
         fun main(args: Array<String>) {
             MapGenerate().generate()
@@ -77,7 +79,7 @@ class MapGenerate {
                         println("${it.name} 初始化成功")
                     }
                     val classic = ScoreLineHolder().apply {
-                        this.scoreLineList = it.filter { it.gameMap.classic }
+                        this.scoreLineList = it.filter { it.gameMap.classicLevel >= LEVEL }
                         this.name = "经典" + name + "交流分数线"
                     }.also {
                         println("${it.name} 初始化成功")

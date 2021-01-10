@@ -21,6 +21,11 @@ class GameMapTools {
         str.fromJson<List<GameMap>>().also {
             it.forEachIndexed { index, gameMap ->
                 gameMap.id = index + 1
+                if (gameMap.classic) {
+                    gameMap.classicLevel = 10
+                } else {
+                    gameMap.classicLevel = -1
+                }
             }
         }.toJson()
 
