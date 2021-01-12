@@ -218,7 +218,7 @@
     {
         "id":28,
         "name":"玩具工厂",
-        "score":115.74,
+        "score":114.88,
         "topScore":107.73,
         "classic":false,
         "classicLevel":5
@@ -234,7 +234,7 @@
     {
         "id":30,
         "name":"铃鹿赛道",
-        "score":154.6,
+        "score":154.01,
         "topScore":146.77,
         "classic":false,
         "classicLevel":5

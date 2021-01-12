@@ -273,7 +273,7 @@
 		"gameMap":{
 			"id":28,
 			"name":"玩具工厂",
-			"score":115.74,
+			"score":114.88,
 			"topScore":107.73,
 			"classic":false,
 			"classicLevel":5
