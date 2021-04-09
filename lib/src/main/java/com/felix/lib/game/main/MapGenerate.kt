@@ -19,7 +19,7 @@ class MapGenerate {
     val root = File("game")
 
     companion object {
-        const val LEVEL = -1
+        const val LEVEL = 10
 
         @JvmStatic
         fun main(args: Array<String>) {

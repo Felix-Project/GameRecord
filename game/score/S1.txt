@@ -3,7 +3,7 @@
 		"gameMap":{
 			"id":2,
 			"name":"城镇高速公路",
-			"score":143.79,
+			"score":143.16,
 			"topScore":137.87,
 			"classic":true,
 			"classicLevel":10
@@ -63,7 +63,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":149.93,
+			"score":149.67,
 			"topScore":143.32,
 			"classic":true,
 			"classicLevel":10
@@ -93,7 +93,7 @@
 		"gameMap":{
 			"id":22,
 			"name":"恐龙决斗场",
-			"score":156.94,
+			"score":156.31,
 			"topScore":149.02,
 			"classic":true,
 			"classicLevel":10
@@ -108,7 +108,7 @@
 		"gameMap":{
 			"id":38,
 			"name":"龙之遗迹",
-			"score":144.77,
+			"score":144.17,
 			"topScore":136.75,
 			"classic":true,
 			"classicLevel":10
@@ -123,7 +123,7 @@
 		"gameMap":{
 			"id":39,
 			"name":"万里长城",
-			"score":149.57,
+			"score":148.74,
 			"topScore":139.84,
 			"classic":true,
 			"classicLevel":10
@@ -138,7 +138,7 @@
 		"gameMap":{
 			"id":40,
 			"name":"海盗绝壁海湾",
-			"score":200.93,
+			"score":200.65,
 			"topScore":150.38,
 			"classic":true,
 			"classicLevel":10
@@ -168,7 +168,7 @@
 		"gameMap":{
 			"id":43,
 			"name":"森林发夹",
-			"score":220.82,
+			"score":220.75,
 			"topScore":208.56,
 			"classic":true,
 			"classicLevel":10
@@ -243,7 +243,7 @@
 		"gameMap":{
 			"id":49,
 			"name":"城镇公路",
-			"score":116.48,
+			"score":116.1,
 			"topScore":107.38,
 			"classic":false,
 			"classicLevel":5
@@ -258,7 +258,7 @@
 		"gameMap":{
 			"id":57,
 			"name":"太空蜿蜒跑道",
-			"score":201.31,
+			"score":159.09,
 			"topScore":148.96,
 			"classic":true,
 			"classicLevel":10
