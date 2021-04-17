@@ -183,7 +183,7 @@
 		"gameMap":{
 			"id":44,
 			"name":"英特拉格斯",
-			"score":155.06,
+			"score":153.78,
 			"topScore":146.22,
 			"classic":false,
 			"classicLevel":5
@@ -243,7 +243,7 @@
 		"gameMap":{
 			"id":49,
 			"name":"城镇公路",
-			"score":116.1,
+			"score":115.85,
 			"topScore":107.38,
 			"classic":false,
 			"classicLevel":5

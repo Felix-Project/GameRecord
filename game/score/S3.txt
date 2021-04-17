@@ -228,7 +228,7 @@
 		"gameMap":{
 			"id":26,
 			"name":"龙之路",
-			"score":105.89,
+			"score":104.96,
 			"topScore":100.8,
 			"classic":false,
 			"classicLevel":5
@@ -318,7 +318,7 @@
 		"gameMap":{
 			"id":44,
 			"name":"英特拉格斯",
-			"score":155.06,
+			"score":153.78,
 			"topScore":146.22,
 			"classic":false,
 			"classicLevel":5
@@ -393,7 +393,7 @@
 		"gameMap":{
 			"id":49,
 			"name":"城镇公路",
-			"score":116.1,
+			"score":115.85,
 			"topScore":107.38,
 			"classic":false,
 			"classicLevel":5
@@ -438,7 +438,7 @@
 		"gameMap":{
 			"id":56,
 			"name":"彩虹之门",
-			"score":208.27,
+			"score":207.71,
 			"topScore":152.91,
 			"classic":false,
 			"classicLevel":4

@@ -202,7 +202,7 @@
     {
         "id":26,
         "name":"龙之路",
-        "score":105.89,
+        "score":104.96,
         "topScore":100.8,
         "classic":false,
         "classicLevel":5
@@ -210,7 +210,7 @@
     {
         "id":27,
         "name":"神秘研究所",
-        "score":212,
+        "score":210.87,
         "topScore":203.4,
         "classic":false,
         "classicLevel":5
@@ -218,7 +218,7 @@
     {
         "id":28,
         "name":"玩具工厂",
-        "score":114.88,
+        "score":114.27,
         "topScore":107.73,
         "classic":false,
         "classicLevel":5
@@ -282,7 +282,7 @@
     {
         "id":36,
         "name":"龙之西湖",
-        "score":157.90,
+        "score":157.02,
         "topScore":150.3,
         "classic":false,
         "classicLevel":5
@@ -346,7 +346,7 @@
     {
         "id":44,
         "name":"英特拉格斯",
-        "score":155.06,
+        "score":153.78,
         "topScore":146.22,
         "classic":false,
         "classicLevel":5
@@ -386,7 +386,7 @@
     {
         "id":49,
         "name":"城镇公路",
-        "score":116.10,
+        "score":115.85,
         "topScore":107.38,
         "classic":false,
         "classicLevel":5
@@ -434,7 +434,7 @@
     {
         "id":55,
         "name":"海盗峭壁瞭望塔",
-        "score":151.94,
+        "score":151.77,
         "topScore":142.45,
         "classic":false,
         "classicLevel":5
@@ -442,7 +442,7 @@
     {
         "id":56,
         "name":"彩虹之门",
-        "score":208.27,
+        "score":207.71,
         "topScore":152.91,
         "classic":false,
         "classicLevel":4
