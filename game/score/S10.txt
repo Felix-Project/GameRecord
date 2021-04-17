@@ -633,7 +633,7 @@
 		"gameMap":{
 			"id":54,
 			"name":"街头狂飙",
-			"score":215.7,
+			"score":213.49,
 			"topScore":204.24,
 			"classic":false,
 			"classicLevel":5
