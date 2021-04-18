@@ -78,7 +78,7 @@
 		"gameMap":{
 			"id":20,
 			"name":"里约滑坡",
-			"score":111.86,
+			"score":111.27,
 			"topScore":107.84,
 			"classic":false,
 			"classicLevel":5
@@ -198,7 +198,7 @@
 		"gameMap":{
 			"id":45,
 			"name":"沙漠旋转工地",
-			"score":203.57,
+			"score":202.79,
 			"topScore":151.83,
 			"classic":true,
 			"classicLevel":10
@@ -288,7 +288,7 @@
 		"gameMap":{
 			"id":59,
 			"name":"未完成的第五区",
-			"score":123.2,
+			"score":123.12,
 			"topScore":114.48,
 			"classic":false,
 			"classicLevel":5
