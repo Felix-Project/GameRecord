@@ -108,7 +108,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":149.67,
+			"score":149.64,
 			"topScore":143.32,
 			"classic":true,
 			"classicLevel":10
@@ -183,7 +183,7 @@
 		"gameMap":{
 			"id":23,
 			"name":"浮空要塞",
-			"score":137.94,
+			"score":137.63,
 			"topScore":129.68,
 			"classic":false,
 			"classicLevel":5
@@ -318,7 +318,7 @@
 		"gameMap":{
 			"id":43,
 			"name":"森林发夹",
-			"score":220.75,
+			"score":219.41,
 			"topScore":208.56,
 			"classic":true,
 			"classicLevel":10
@@ -333,7 +333,7 @@
 		"gameMap":{
 			"id":44,
 			"name":"英特拉格斯",
-			"score":153.78,
+			"score":153.79,
 			"topScore":146.22,
 			"classic":false,
 			"classicLevel":5
@@ -378,7 +378,7 @@
 		"gameMap":{
 			"id":47,
 			"name":"黄山赛道",
-			"score":113.93,
+			"score":113.22,
 			"topScore":106.84,
 			"classic":false,
 			"classicLevel":5
@@ -393,7 +393,7 @@
 		"gameMap":{
 			"id":48,
 			"name":"海盗宝藏迷宫",
-			"score":210.58,
+			"score":208.43,
 			"topScore":157.16,
 			"classic":true,
 			"classicLevel":10
@@ -408,7 +408,7 @@
 		"gameMap":{
 			"id":49,
 			"name":"城镇公路",
-			"score":115.85,
+			"score":115.37,
 			"topScore":107.38,
 			"classic":false,
 			"classicLevel":5
@@ -423,7 +423,7 @@
 		"gameMap":{
 			"id":50,
 			"name":"冰峰裂谷",
-			"score":145.75,
+			"score":142.4,
 			"topScore":131.51,
 			"classic":false,
 			"classicLevel":4
@@ -453,7 +453,7 @@
 		"gameMap":{
 			"id":53,
 			"name":"秘密机关的威胁",
-			"score":201.15,
+			"score":200.14,
 			"topScore":148.14,
 			"classic":false,
 			"classicLevel":5
@@ -498,7 +498,7 @@
 		"gameMap":{
 			"id":58,
 			"name":"矿山曲折滑坡",
-			"score":122.96,
+			"score":121.13,
 			"topScore":109.99,
 			"classic":false,
 			"classicLevel":4
@@ -513,7 +513,7 @@
 		"gameMap":{
 			"id":59,
 			"name":"未完成的第五区",
-			"score":123.12,
+			"score":122.51,
 			"topScore":114.48,
 			"classic":false,
 			"classicLevel":5
