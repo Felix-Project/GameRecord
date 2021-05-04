@@ -63,7 +63,7 @@
 		"gameMap":{
 			"id":8,
 			"name":"惊险飞机场",
-			"score":229.66,
+			"score":228.39,
 			"topScore":223.26,
 			"classic":false,
 			"classicLevel":5
@@ -78,7 +78,7 @@
 		"gameMap":{
 			"id":9,
 			"name":"日光城",
-			"score":152.48,
+			"score":151.57,
 			"topScore":145.81,
 			"classic":false,
 			"classicLevel":5
@@ -123,7 +123,7 @@
 		"gameMap":{
 			"id":18,
 			"name":"野外修炼馆",
-			"score":136.01,
+			"score":135.31,
 			"topScore":129.66,
 			"classic":false,
 			"classicLevel":5
@@ -243,7 +243,7 @@
 		"gameMap":{
 			"id":38,
 			"name":"龙之遗迹",
-			"score":144.17,
+			"score":143.27,
 			"topScore":136.75,
 			"classic":true,
 			"classicLevel":10
@@ -273,7 +273,7 @@
 		"gameMap":{
 			"id":40,
 			"name":"海盗绝壁海湾",
-			"score":200.65,
+			"score":158.45,
 			"topScore":150.38,
 			"classic":true,
 			"classicLevel":10
@@ -288,7 +288,7 @@
 		"gameMap":{
 			"id":41,
 			"name":"海底神殿",
-			"score":228.27,
+			"score":226.19,
 			"topScore":215.9,
 			"classic":false,
 			"classicLevel":5
@@ -303,7 +303,7 @@
 		"gameMap":{
 			"id":43,
 			"name":"森林发夹",
-			"score":219.41,
+			"score":218.66,
 			"topScore":208.56,
 			"classic":true,
 			"classicLevel":10
@@ -438,7 +438,7 @@
 		"gameMap":{
 			"id":56,
 			"name":"彩虹之门",
-			"score":207.71,
+			"score":205.0,
 			"topScore":152.91,
 			"classic":false,
 			"classicLevel":4
@@ -498,7 +498,7 @@
 		"gameMap":{
 			"id":60,
 			"name":"森林崎岖下山道",
-			"score":147.68,
+			"score":142.7,
 			"topScore":131.26,
 			"classic":false,
 			"classicLevel":4
@@ -513,7 +513,7 @@
 		"gameMap":{
 			"id":61,
 			"name":"幽暗峡谷",
-			"score":157.11,
+			"score":154.69,
 			"topScore":144.17,
 			"classic":true,
 			"classicLevel":10
