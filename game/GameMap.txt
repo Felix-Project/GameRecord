@@ -98,7 +98,7 @@
     {
         "id":13,
         "name":"灵岩环道",
-        "score":151.98,
+        "score":151.04,
         "topScore":146.69,
         "classic":true,
         "classicLevel":10
@@ -138,7 +138,7 @@
     {
         "id":18,
         "name":"野外修炼馆",
-        "score":135.31,
+        "score":135.06,
         "topScore":129.66,
         "classic":false,
         "classicLevel":5
@@ -178,7 +178,7 @@
     {
         "id":23,
         "name":"浮空要塞",
-        "score":137.63,
+        "score":136.51,
         "topScore":129.68,
         "classic":false,
         "classicLevel":5
@@ -266,7 +266,7 @@
     {
         "id":34,
         "name":"巴黎铁塔",
-        "score":205.75,
+        "score":204.31,
         "topScore":157.95,
         "classic":false,
         "classicLevel":5
@@ -346,7 +346,7 @@
     {
         "id":44,
         "name":"英特拉格斯",
-        "score":153.79,
+        "score":152.33,
         "topScore":146.22,
         "classic":false,
         "classicLevel":5
@@ -354,7 +354,7 @@
     {
         "id":45,
         "name":"沙漠旋转工地",
-        "score":202.79,
+        "score":201.55,
         "topScore":151.83,
         "classic":true,
         "classicLevel":10
@@ -386,7 +386,7 @@
     {
         "id":49,
         "name":"城镇公路",
-        "score":115.37,
+        "score":114.99,
         "topScore":107.38,
         "classic":false,
         "classicLevel":5
@@ -434,7 +434,7 @@
     {
         "id":55,
         "name":"海盗峭壁瞭望塔",
-        "score":151.77,
+        "score":149.81,
         "topScore":142.45,
         "classic":false,
         "classicLevel":5
@@ -466,7 +466,7 @@
     {
         "id":59,
         "name":"未完成的第五区",
-        "score":122.51,
+        "score":121.21,
         "topScore":114.48,
         "classic":false,
         "classicLevel":5

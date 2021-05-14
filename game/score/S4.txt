@@ -93,7 +93,7 @@
 		"gameMap":{
 			"id":13,
 			"name":"灵岩环道",
-			"score":151.98,
+			"score":151.04,
 			"topScore":146.69,
 			"classic":true,
 			"classicLevel":10
@@ -123,7 +123,7 @@
 		"gameMap":{
 			"id":18,
 			"name":"野外修炼馆",
-			"score":135.31,
+			"score":135.06,
 			"topScore":129.66,
 			"classic":false,
 			"classicLevel":5
@@ -183,7 +183,7 @@
 		"gameMap":{
 			"id":23,
 			"name":"浮空要塞",
-			"score":137.63,
+			"score":136.51,
 			"topScore":129.68,
 			"classic":false,
 			"classicLevel":5
@@ -333,7 +333,7 @@
 		"gameMap":{
 			"id":44,
 			"name":"英特拉格斯",
-			"score":153.79,
+			"score":152.33,
 			"topScore":146.22,
 			"classic":false,
 			"classicLevel":5
@@ -348,7 +348,7 @@
 		"gameMap":{
 			"id":45,
 			"name":"沙漠旋转工地",
-			"score":202.79,
+			"score":201.55,
 			"topScore":151.83,
 			"classic":true,
 			"classicLevel":10
@@ -408,7 +408,7 @@
 		"gameMap":{
 			"id":49,
 			"name":"城镇公路",
-			"score":115.37,
+			"score":114.99,
 			"topScore":107.38,
 			"classic":false,
 			"classicLevel":5
@@ -513,7 +513,7 @@
 		"gameMap":{
 			"id":59,
 			"name":"未完成的第五区",
-			"score":122.51,
+			"score":121.21,
 			"topScore":114.48,
 			"classic":false,
 			"classicLevel":5
