@@ -2,7 +2,7 @@
     {
         "id":1,
         "name":"城镇运河",
-        "score":109.39,
+        "score":108.68,
         "topScore":106.01,
         "classic":false,
         "classicLevel":5
@@ -82,7 +82,7 @@
     {
         "id":11,
         "name":"龙之运河",
-        "score":209.17,
+        "score":208.31,
         "topScore":202.06,
         "classic":true,
         "classicLevel":10
@@ -194,7 +194,7 @@
     {
         "id":25,
         "name":"城镇命运之桥",
-        "score":208.63,
+        "score":207.56,
         "topScore":200.3,
         "classic":false,
         "classicLevel":4
@@ -210,7 +210,7 @@
     {
         "id":27,
         "name":"神秘研究所",
-        "score":210.87,
+        "score":209.58,
         "topScore":203.4,
         "classic":false,
         "classicLevel":5
@@ -242,7 +242,7 @@
     {
         "id":31,
         "name":"太空军用机场",
-        "score":157.87,
+        "score":154.64,
         "topScore":148.58,
         "classic":false,
         "classicLevel":5
@@ -250,7 +250,7 @@
     {
         "id":32,
         "name":"城镇高速公路(反向)",
-        "score":148.92,
+        "score":147.80,
         "topScore":139.82,
         "classic":false,
         "classicLevel":4
@@ -258,7 +258,7 @@
     {
         "id":33,
         "name":"城镇极限竞技场",
-        "score":146.62,
+        "score":144.74,
         "topScore":137.41,
         "classic":false,
         "classicLevel":5
@@ -274,7 +274,7 @@
     {
         "id":35,
         "name":"意大利比萨斜塔",
-        "score":109.16,
+        "score":107.57,
         "topScore":100.9,
         "classic":false,
         "classicLevel":5
@@ -306,7 +306,7 @@
     {
         "id":39,
         "name":"万里长城",
-        "score":148.74,
+        "score":146.58,
         "topScore":139.84,
         "classic":true,
         "classicLevel":10
@@ -314,7 +314,7 @@
     {
         "id":40,
         "name":"海盗绝壁海湾",
-        "score":158.45,
+        "score":158.02,
         "topScore":150.38,
         "classic":true,
         "classicLevel":10
@@ -354,7 +354,7 @@
     {
         "id":45,
         "name":"沙漠旋转工地",
-        "score":201.55,
+        "score":158.52,
         "topScore":151.83,
         "classic":true,
         "classicLevel":10
@@ -370,7 +370,7 @@
     {
         "id":47,
         "name":"黄山赛道",
-        "score":113.22,
+        "score":112.43,
         "topScore":106.84,
         "classic":false,
         "classicLevel":5
@@ -378,7 +378,7 @@
     {
         "id":48,
         "name":"海盗宝藏迷宫",
-        "score":208.43,
+        "score":208.33,
         "topScore":157.16,
         "classic":true,
         "classicLevel":10
@@ -386,7 +386,7 @@
     {
         "id":49,
         "name":"城镇公路",
-        "score":114.99,
+        "score":113.54,
         "topScore":107.38,
         "classic":false,
         "classicLevel":5
@@ -402,7 +402,7 @@
     {
         "id":51,
         "name":"圣诞秘密空间",
-        "score":141.00,
+        "score":140.90,
         "topScore":134.62,
         "classic":false,
         "classicLevel":5
@@ -410,7 +410,7 @@
     {
         "id":52,
         "name":"黄金坐标",
-        "score":141.4,
+        "score":140.35,
         "topScore":133.39,
         "classic":false,
         "classicLevel":5
@@ -426,7 +426,7 @@
     {
         "id":54,
         "name":"街头狂飙",
-        "score":213.49,
+        "score":213.23,
         "topScore":204.24,
         "classic":false,
         "classicLevel":5
@@ -434,7 +434,7 @@
     {
         "id":55,
         "name":"海盗峭壁瞭望塔",
-        "score":149.81,
+        "score":148.91,
         "topScore":142.45,
         "classic":false,
         "classicLevel":5
@@ -450,7 +450,7 @@
     {
         "id":57,
         "name":"太空蜿蜒跑道",
-        "score":159.09,
+        "score":157.87,
         "topScore":148.96,
         "classic":true,
         "classicLevel":10
@@ -490,7 +490,7 @@
     {
         "id":62,
         "name":"冰山滑雪场",
-        "score":222.61,
+        "score":218.65,
         "topScore":210.18,
         "classic":false,
         "classicLevel":4

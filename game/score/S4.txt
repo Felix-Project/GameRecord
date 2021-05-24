@@ -213,7 +213,7 @@
 		"gameMap":{
 			"id":25,
 			"name":"城镇命运之桥",
-			"score":208.63,
+			"score":207.56,
 			"topScore":200.3,
 			"classic":false,
 			"classicLevel":4
@@ -273,7 +273,7 @@
 		"gameMap":{
 			"id":39,
 			"name":"万里长城",
-			"score":148.74,
+			"score":146.58,
 			"topScore":139.84,
 			"classic":true,
 			"classicLevel":10
@@ -288,7 +288,7 @@
 		"gameMap":{
 			"id":40,
 			"name":"海盗绝壁海湾",
-			"score":158.45,
+			"score":158.02,
 			"topScore":150.38,
 			"classic":true,
 			"classicLevel":10
@@ -348,7 +348,7 @@
 		"gameMap":{
 			"id":45,
 			"name":"沙漠旋转工地",
-			"score":201.55,
+			"score":158.52,
 			"topScore":151.83,
 			"classic":true,
 			"classicLevel":10
@@ -378,7 +378,7 @@
 		"gameMap":{
 			"id":47,
 			"name":"黄山赛道",
-			"score":113.22,
+			"score":112.43,
 			"topScore":106.84,
 			"classic":false,
 			"classicLevel":5
@@ -393,7 +393,7 @@
 		"gameMap":{
 			"id":48,
 			"name":"海盗宝藏迷宫",
-			"score":208.43,
+			"score":208.33,
 			"topScore":157.16,
 			"classic":true,
 			"classicLevel":10
@@ -408,7 +408,7 @@
 		"gameMap":{
 			"id":49,
 			"name":"城镇公路",
-			"score":114.99,
+			"score":113.54,
 			"topScore":107.38,
 			"classic":false,
 			"classicLevel":5
@@ -438,7 +438,7 @@
 		"gameMap":{
 			"id":51,
 			"name":"圣诞秘密空间",
-			"score":141.0,
+			"score":140.9,
 			"topScore":134.62,
 			"classic":false,
 			"classicLevel":5
@@ -483,7 +483,7 @@
 		"gameMap":{
 			"id":57,
 			"name":"太空蜿蜒跑道",
-			"score":159.09,
+			"score":157.87,
 			"topScore":148.96,
 			"classic":true,
 			"classicLevel":10
@@ -558,7 +558,7 @@
 		"gameMap":{
 			"id":62,
 			"name":"冰山滑雪场",
-			"score":222.61,
+			"score":218.65,
 			"topScore":210.18,
 			"classic":false,
 			"classicLevel":4
