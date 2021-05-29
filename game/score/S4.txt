@@ -3,7 +3,7 @@
 		"gameMap":{
 			"id":2,
 			"name":"城镇高速公路",
-			"score":143.16,
+			"score":142.73,
 			"topScore":137.87,
 			"classic":true,
 			"classicLevel":10
@@ -288,7 +288,7 @@
 		"gameMap":{
 			"id":40,
 			"name":"海盗绝壁海湾",
-			"score":158.02,
+			"score":157.93,
 			"topScore":150.38,
 			"classic":true,
 			"classicLevel":10
@@ -363,7 +363,7 @@
 		"gameMap":{
 			"id":46,
 			"name":"大城堡秘密地下室",
-			"score":205.89,
+			"score":202.92,
 			"topScore":156.26,
 			"classic":true,
 			"classicLevel":10

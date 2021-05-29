@@ -3,7 +3,7 @@
 		"gameMap":{
 			"id":2,
 			"name":"城镇高速公路",
-			"score":143.16,
+			"score":142.73,
 			"topScore":137.87,
 			"classic":true,
 			"classicLevel":10
@@ -303,7 +303,7 @@
 		"gameMap":{
 			"id":32,
 			"name":"城镇高速公路(反向)",
-			"score":147.8,
+			"score":145.83,
 			"topScore":139.82,
 			"classic":false,
 			"classicLevel":4
@@ -423,7 +423,7 @@
 		"gameMap":{
 			"id":40,
 			"name":"海盗绝壁海湾",
-			"score":158.02,
+			"score":157.93,
 			"topScore":150.38,
 			"classic":true,
 			"classicLevel":10
@@ -513,7 +513,7 @@
 		"gameMap":{
 			"id":46,
 			"name":"大城堡秘密地下室",
-			"score":205.89,
+			"score":202.92,
 			"topScore":156.26,
 			"classic":true,
 			"classicLevel":10
@@ -633,7 +633,7 @@
 		"gameMap":{
 			"id":54,
 			"name":"街头狂飙",
-			"score":213.23,
+			"score":211.91,
 			"topScore":204.24,
 			"classic":false,
 			"classicLevel":5
