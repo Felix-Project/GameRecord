@@ -153,7 +153,7 @@
 		"gameMap":{
 			"id":20,
 			"name":"里约滑坡",
-			"score":111.27,
+			"score":110.83,
 			"topScore":107.84,
 			"classic":false,
 			"classicLevel":5
@@ -228,7 +228,7 @@
 		"gameMap":{
 			"id":26,
 			"name":"龙之路",
-			"score":104.96,
+			"score":103.84,
 			"topScore":100.8,
 			"classic":false,
 			"classicLevel":5
@@ -453,7 +453,7 @@
 		"gameMap":{
 			"id":42,
 			"name":"纽约狂飙",
-			"score":128.17,
+			"score":127.88,
 			"topScore":123.59,
 			"classic":false,
 			"classicLevel":8
@@ -693,7 +693,7 @@
 		"gameMap":{
 			"id":58,
 			"name":"矿山曲折滑坡",
-			"score":121.13,
+			"score":119.27,
 			"topScore":109.99,
 			"classic":false,
 			"classicLevel":4
@@ -738,7 +738,7 @@
 		"gameMap":{
 			"id":61,
 			"name":"幽暗峡谷",
-			"score":154.69,
+			"score":152.49,
 			"topScore":144.17,
 			"classic":true,
 			"classicLevel":10

@@ -78,7 +78,7 @@
 		"gameMap":{
 			"id":20,
 			"name":"里约滑坡",
-			"score":111.27,
+			"score":110.83,
 			"topScore":107.84,
 			"classic":false,
 			"classicLevel":5
@@ -273,7 +273,7 @@
 		"gameMap":{
 			"id":58,
 			"name":"矿山曲折滑坡",
-			"score":121.13,
+			"score":119.27,
 			"topScore":109.99,
 			"classic":false,
 			"classicLevel":4
