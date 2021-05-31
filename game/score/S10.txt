@@ -468,7 +468,7 @@
 		"gameMap":{
 			"id":43,
 			"name":"森林发夹",
-			"score":218.66,
+			"score":216.73,
 			"topScore":208.56,
 			"classic":true,
 			"classicLevel":10
@@ -543,7 +543,7 @@
 		"gameMap":{
 			"id":48,
 			"name":"海盗宝藏迷宫",
-			"score":208.33,
+			"score":207.26,
 			"topScore":157.16,
 			"classic":true,
 			"classicLevel":10
@@ -618,7 +618,7 @@
 		"gameMap":{
 			"id":53,
 			"name":"秘密机关的威胁",
-			"score":200.14,
+			"score":156.11,
 			"topScore":148.14,
 			"classic":false,
 			"classicLevel":5
@@ -663,7 +663,7 @@
 		"gameMap":{
 			"id":56,
 			"name":"彩虹之门",
-			"score":205.0,
+			"score":203.97,
 			"topScore":152.91,
 			"classic":false,
 			"classicLevel":4

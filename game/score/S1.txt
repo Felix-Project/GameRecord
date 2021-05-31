@@ -168,7 +168,7 @@
 		"gameMap":{
 			"id":43,
 			"name":"森林发夹",
-			"score":218.66,
+			"score":216.73,
 			"topScore":208.56,
 			"classic":true,
 			"classicLevel":10
@@ -228,7 +228,7 @@
 		"gameMap":{
 			"id":48,
 			"name":"海盗宝藏迷宫",
-			"score":208.33,
+			"score":207.26,
 			"topScore":157.16,
 			"classic":true,
 			"classicLevel":10
