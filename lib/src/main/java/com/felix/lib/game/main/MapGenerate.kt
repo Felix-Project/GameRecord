@@ -17,6 +17,10 @@ import java.io.File
 
 class MapGenerate {
     val root = File("game")
+    val titleMap: Map<String, Array<String>> =
+        hashMapOf(Pair("S12", arrayOf("强主", "主力", "一线", "二线", "三线")))
+
+    val offset = 0.5f
 
     companion object {
         const val LEVEL = -1
@@ -34,6 +38,10 @@ class MapGenerate {
         }.let {
             //转成数据对象
             it.fromJson<List<GameMap>>()
+        }.also {
+            it.forEach {
+                it.score -= offset
+            }
         }.let {
             //转成map存储
             hashMapOf<String, GameMap>().apply {
@@ -77,12 +85,16 @@ class MapGenerate {
                     val normal = ScoreLineHolder().apply {
                         this.scoreLineList = it
                         this.name = name + "交流分数线"
+                        titleMap.get(name)?.let {
+                            this.titles = it
+                        }
                     }.also {
                         println("${it.name} 初始化成功")
                     }
                     val classic = ScoreLineHolder().apply {
                         this.scoreLineList = it.filter { it.gameMap.classicLevel >= LEVEL }
                         this.name = "经典" + name + "交流分数线"
+                        this.titles = normal.titles
                     }.also {
                         println("${it.name} 初始化成功")
                     }
@@ -330,7 +342,7 @@ class MapGenerate {
                         val value: String
                         val faction = 100 - lineIndex * 10 + additional
                         if (lineIndex >= lines.size) {
-                            value = "娱乐开外"
+                            value = values[lines.size - 1] + "开外"
                         } else {
                             value =
                                 values[lineIndex] + if (score == lines[lineIndex]) "勉强" else "以上"
