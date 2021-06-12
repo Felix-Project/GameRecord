@@ -47,7 +47,9 @@ class MapGenerate {
             File(root, "score").listFiles().also {
                 val regex = Regex("[a-zA-Z.]+")
                 it.sortBy {
-                    100 - it.name.replace(regex, "").runCatching { this.toInt() }.also {
+                    100 - it.name.replace(regex, "").runCatching {
+                        this.toInt()
+                    }.also {
                         it.exceptionOrNull()?.printStackTrace()
                     }.getOrDefault(-1)
                 }
