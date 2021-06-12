@@ -2,7 +2,7 @@
     {
         "id":1,
         "name":"城镇运河",
-        "score":108.68,
+        "score":107.80,
         "topScore":106.01,
         "classic":false,
         "classicLevel":5
@@ -170,7 +170,7 @@
     {
         "id":22,
         "name":"恐龙决斗场",
-        "score":156.31,
+        "score":155.79,
         "topScore":149.02,
         "classic":true,
         "classicLevel":10
@@ -186,7 +186,7 @@
     {
         "id":24,
         "name":"遗忘孤城",
-        "score":158.56,
+        "score":157.66,
         "topScore":151.7,
         "classic":true,
         "classicLevel":10

@@ -20,7 +20,7 @@ class MapGenerate {
     val titleMap: Map<String, Array<String>> =
         hashMapOf(Pair("S12", arrayOf("强主", "主力", "一线", "二线", "三线")))
 
-    val offset = 0.5f
+    val offset = 0.0f
 
     companion object {
         const val LEVEL = -1
