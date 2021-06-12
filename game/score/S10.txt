@@ -348,7 +348,7 @@
 		"gameMap":{
 			"id":35,
 			"name":"意大利比萨斜塔",
-			"score":107.57,
+			"score":106.67,
 			"topScore":100.9,
 			"classic":false,
 			"classicLevel":5
@@ -438,7 +438,7 @@
 		"gameMap":{
 			"id":41,
 			"name":"海底神殿",
-			"score":226.19,
+			"score":225.17,
 			"topScore":215.9,
 			"classic":false,
 			"classicLevel":5
@@ -573,7 +573,7 @@
 		"gameMap":{
 			"id":50,
 			"name":"冰峰裂谷",
-			"score":142.4,
+			"score":141.71,
 			"topScore":131.51,
 			"classic":false,
 			"classicLevel":4
@@ -768,7 +768,7 @@
 		"gameMap":{
 			"id":63,
 			"name":"森林发夹(反向)",
-			"score":218.35,
+			"score":215.94,
 			"topScore":206.68,
 			"classic":false,
 			"classicLevel":4

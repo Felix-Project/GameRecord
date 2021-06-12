@@ -90,7 +90,7 @@
     {
         "id":12,
         "name":"恐龙坟墓",
-        "score":146.37,
+        "score":145.45,
         "topScore":141.58,
         "classic":false,
         "classicLevel":8
@@ -146,7 +146,7 @@
     {
         "id":19,
         "name":"城镇手指",
-        "score":127.81,
+        "score":124.50,
         "topScore":117.17,
         "classic":false,
         "classicLevel":1
@@ -274,7 +274,7 @@
     {
         "id":35,
         "name":"意大利比萨斜塔",
-        "score":107.57,
+        "score":106.67,
         "topScore":100.9,
         "classic":false,
         "classicLevel":5
@@ -322,7 +322,7 @@
     {
         "id":41,
         "name":"海底神殿",
-        "score":226.19,
+        "score":225.17,
         "topScore":215.9,
         "classic":false,
         "classicLevel":5
@@ -394,7 +394,7 @@
     {
         "id":50,
         "name":"冰峰裂谷",
-        "score":142.40,
+        "score":141.71,
         "topScore":131.51,
         "classic":false,
         "classicLevel":4
@@ -498,7 +498,7 @@
     {
         "id":63,
         "name":"森林发夹(反向)",
-        "score":218.35,
+        "score":215.94,
         "topScore":206.68,
         "classic":false,
         "classicLevel":4

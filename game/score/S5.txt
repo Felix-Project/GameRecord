@@ -153,7 +153,7 @@
 		"gameMap":{
 			"id":19,
 			"name":"城镇手指",
-			"score":127.81,
+			"score":124.5,
 			"topScore":117.17,
 			"classic":false,
 			"classicLevel":1
@@ -333,7 +333,7 @@
 		"gameMap":{
 			"id":41,
 			"name":"海底神殿",
-			"score":226.19,
+			"score":225.17,
 			"topScore":215.9,
 			"classic":false,
 			"classicLevel":5
@@ -453,7 +453,7 @@
 		"gameMap":{
 			"id":50,
 			"name":"冰峰裂谷",
-			"score":142.4,
+			"score":141.71,
 			"topScore":131.51,
 			"classic":false,
 			"classicLevel":4

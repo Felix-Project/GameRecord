@@ -153,7 +153,7 @@
 		"gameMap":{
 			"id":41,
 			"name":"海底神殿",
-			"score":226.19,
+			"score":225.17,
 			"topScore":215.9,
 			"classic":false,
 			"classicLevel":5
