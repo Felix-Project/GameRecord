@@ -18,7 +18,7 @@
 		"gameMap":{
 			"id":3,
 			"name":"城镇南山",
-			"score":139.46,
+			"score":138.98,
 			"topScore":133.9,
 			"classic":false,
 			"classicLevel":5
@@ -48,7 +48,7 @@
 		"gameMap":{
 			"id":7,
 			"name":"狮城狂飙",
-			"score":205.96,
+			"score":205.44,
 			"topScore":159.56,
 			"classic":true,
 			"classicLevel":10
@@ -78,7 +78,7 @@
 		"gameMap":{
 			"id":9,
 			"name":"日光城",
-			"score":151.57,
+			"score":149.98,
 			"topScore":145.81,
 			"classic":false,
 			"classicLevel":5
@@ -228,7 +228,7 @@
 		"gameMap":{
 			"id":23,
 			"name":"浮空要塞",
-			"score":136.51,
+			"score":135.48,
 			"topScore":129.68,
 			"classic":false,
 			"classicLevel":5
@@ -243,7 +243,7 @@
 		"gameMap":{
 			"id":24,
 			"name":"遗忘孤城",
-			"score":157.66,
+			"score":157.28,
 			"topScore":151.7,
 			"classic":true,
 			"classicLevel":10
@@ -783,7 +783,7 @@
 		"gameMap":{
 			"id":61,
 			"name":"太空蜿蜒跑道",
-			"score":157.87,
+			"score":156.48,
 			"topScore":148.96,
 			"classic":true,
 			"classicLevel":10

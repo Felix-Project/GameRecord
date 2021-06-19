@@ -33,7 +33,7 @@
 		"gameMap":{
 			"id":7,
 			"name":"狮城狂飙",
-			"score":205.96,
+			"score":205.44,
 			"topScore":159.56,
 			"classic":true,
 			"classicLevel":10
@@ -258,7 +258,7 @@
 		"gameMap":{
 			"id":61,
 			"name":"太空蜿蜒跑道",
-			"score":157.87,
+			"score":156.48,
 			"topScore":148.96,
 			"classic":true,
 			"classicLevel":10

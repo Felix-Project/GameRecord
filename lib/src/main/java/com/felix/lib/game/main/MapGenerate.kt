@@ -321,6 +321,14 @@ class MapGenerate {
                             }
                             lineIndex = index + 1
                         }
+                        val doteDiff = scoreLine.gameMap.score.let {
+                            it - it.toInt()
+                        }
+
+                        lines[Math.min(
+                            lineIndex,
+                            lines.size - 1
+                        )] * 100 - scoreLine.gameMap.score
                         val diff: Int =
                             Math.abs(
                                 getScoreInt(
@@ -348,6 +356,7 @@ class MapGenerate {
                                 values[lineIndex] + if (score == lines[lineIndex]) "勉强" else "以上"
                         }
 
+                        val factionResult: Float = faction - doteDiff
                         val datas = arrayListOf(
                             scoreLine.gameMap.id.toString(),
                             scoreLine.gameMap.name,
@@ -359,7 +368,7 @@ class MapGenerate {
                             scoreLine.gameMap.getScoreResult(),
                             scoreLine.gameMap.getTopResult(),
                             value,
-                            faction.toString()
+                            factionResult.toFormatString()
                         )
                         datas.forEachIndexed { index, s ->
                             val style: CellStyle
