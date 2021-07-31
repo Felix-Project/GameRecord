@@ -93,7 +93,7 @@
 		"gameMap":{
 			"id":11,
 			"name":"龙之运河",
-			"score":208.31,
+			"score":208.34,
 			"topScore":202.06,
 			"classic":true,
 			"classicLevel":10
@@ -108,7 +108,7 @@
 		"gameMap":{
 			"id":13,
 			"name":"灵岩环道",
-			"score":151.04,
+			"score":150.94,
 			"topScore":146.69,
 			"classic":true,
 			"classicLevel":10
@@ -123,7 +123,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":149.64,
+			"score":149.3,
 			"topScore":143.32,
 			"classic":true,
 			"classicLevel":10
@@ -528,7 +528,7 @@
 		"gameMap":{
 			"id":48,
 			"name":"黄山赛道",
-			"score":112.43,
+			"score":112.05,
 			"topScore":106.84,
 			"classic":false,
 			"classicLevel":5
@@ -558,7 +558,7 @@
 		"gameMap":{
 			"id":50,
 			"name":"城镇公路",
-			"score":113.54,
+			"score":113.18,
 			"topScore":107.38,
 			"classic":false,
 			"classicLevel":5
@@ -573,7 +573,7 @@
 		"gameMap":{
 			"id":51,
 			"name":"冰峰裂谷",
-			"score":141.71,
+			"score":140.09,
 			"topScore":131.51,
 			"classic":false,
 			"classicLevel":4

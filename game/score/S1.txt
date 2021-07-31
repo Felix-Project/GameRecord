@@ -48,7 +48,7 @@
 		"gameMap":{
 			"id":13,
 			"name":"灵岩环道",
-			"score":151.04,
+			"score":150.94,
 			"topScore":146.69,
 			"classic":true,
 			"classicLevel":10
@@ -63,7 +63,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":149.64,
+			"score":149.3,
 			"topScore":143.32,
 			"classic":true,
 			"classicLevel":10
@@ -243,7 +243,7 @@
 		"gameMap":{
 			"id":50,
 			"name":"城镇公路",
-			"score":113.54,
+			"score":113.18,
 			"topScore":107.38,
 			"classic":false,
 			"classicLevel":5

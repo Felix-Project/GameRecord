@@ -93,7 +93,7 @@
 		"gameMap":{
 			"id":11,
 			"name":"龙之运河",
-			"score":208.31,
+			"score":208.34,
 			"topScore":202.06,
 			"classic":true,
 			"classicLevel":10
@@ -108,7 +108,7 @@
 		"gameMap":{
 			"id":12,
 			"name":"恐龙坟墓",
-			"score":145.45,
+			"score":145.35,
 			"topScore":141.58,
 			"classic":false,
 			"classicLevel":8
@@ -123,7 +123,7 @@
 		"gameMap":{
 			"id":13,
 			"name":"灵岩环道",
-			"score":151.04,
+			"score":150.94,
 			"topScore":146.69,
 			"classic":true,
 			"classicLevel":10
@@ -138,7 +138,7 @@
 		"gameMap":{
 			"id":15,
 			"name":"迪拜富人区",
-			"score":149.64,
+			"score":149.3,
 			"topScore":143.32,
 			"classic":true,
 			"classicLevel":10
@@ -198,7 +198,7 @@
 		"gameMap":{
 			"id":21,
 			"name":"360塔楼",
-			"score":132.15,
+			"score":131.57,
 			"topScore":124.82,
 			"classic":false,
 			"classicLevel":1
@@ -588,7 +588,7 @@
 		"gameMap":{
 			"id":48,
 			"name":"黄山赛道",
-			"score":112.43,
+			"score":112.05,
 			"topScore":106.84,
 			"classic":false,
 			"classicLevel":5
@@ -618,7 +618,7 @@
 		"gameMap":{
 			"id":50,
 			"name":"城镇公路",
-			"score":113.54,
+			"score":113.18,
 			"topScore":107.38,
 			"classic":false,
 			"classicLevel":5
@@ -633,7 +633,7 @@
 		"gameMap":{
 			"id":51,
 			"name":"冰峰裂谷",
-			"score":141.71,
+			"score":140.09,
 			"topScore":131.51,
 			"classic":false,
 			"classicLevel":4
@@ -723,7 +723,7 @@
 		"gameMap":{
 			"id":57,
 			"name":"云中峡谷",
-			"score":144.11,
+			"score":144.02,
 			"topScore":135.45,
 			"classic":false,
 			"classicLevel":5
@@ -738,7 +738,7 @@
 		"gameMap":{
 			"id":58,
 			"name":"改装车间",
-			"score":201.48,
+			"score":159.47,
 			"topScore":148.0,
 			"classic":false,
 			"classicLevel":4
@@ -753,7 +753,7 @@
 		"gameMap":{
 			"id":59,
 			"name":"海盗鲨鱼岛",
-			"score":222.9,
+			"score":219.17,
 			"topScore":209.0,
 			"classic":false,
 			"classicLevel":4
