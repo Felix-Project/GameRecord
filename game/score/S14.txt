@@ -9,10 +9,10 @@
 			"classicLevel":10
 		},
 		"pro":1.38,
-		"one":1.4,
-		"two":1.43,
-		"three":1.46,
-		"entertainment":1.48
+		"one":1.39,
+		"two":1.41,
+		"three":1.43,
+		"entertainment":1.45
 	},
 	{
 		"gameMap":{
@@ -25,9 +25,9 @@
 		},
 		"pro":1.34,
 		"one":1.36,
-		"two":1.39,
-		"three":1.42,
-		"entertainment":1.44
+		"two":1.38,
+		"three":1.4,
+		"entertainment":1.42
 	},
 	{
 		"gameMap":{
@@ -40,9 +40,9 @@
 		},
 		"pro":1.51,
 		"one":1.53,
-		"two":1.56,
-		"three":1.59,
-		"entertainment":2.01
+		"two":1.55,
+		"three":1.57,
+		"entertainment":1.59
 	},
 	{
 		"gameMap":{
@@ -54,25 +54,10 @@
 			"classicLevel":10
 		},
 		"pro":2.0,
-		"one":2.02,
-		"two":2.05,
-		"three":2.08,
-		"entertainment":2.1
-	},
-	{
-		"gameMap":{
-			"id":8,
-			"name":"惊险飞机场",
-			"score":227.15,
-			"topScore":223.26,
-			"classic":false,
-			"classicLevel":5
-		},
-		"pro":2.23,
-		"one":2.25,
-		"two":2.28,
-		"three":2.31,
-		"entertainment":2.33
+		"one":2.03,
+		"two":2.04,
+		"three":2.06,
+		"entertainment":2.09
 	},
 	{
 		"gameMap":{
@@ -85,9 +70,9 @@
 		},
 		"pro":1.46,
 		"one":1.48,
-		"two":1.51,
-		"three":1.54,
-		"entertainment":1.56
+		"two":1.5,
+		"three":1.52,
+		"entertainment":1.54
 	},
 	{
 		"gameMap":{
@@ -98,11 +83,26 @@
 			"classic":true,
 			"classicLevel":8
 		},
-		"pro":2.03,
-		"one":2.05,
-		"two":2.08,
-		"three":2.11,
-		"entertainment":2.13
+		"pro":2.01,
+		"one":2.03,
+		"two":2.05,
+		"three":2.07,
+		"entertainment":2.09
+	},
+	{
+		"gameMap":{
+			"id":11,
+			"name":"恐龙坟墓",
+			"score":145.13,
+			"topScore":141.58,
+			"classic":false,
+			"classicLevel":8
+		},
+		"pro":1.41,
+		"one":1.43,
+		"two":1.45,
+		"three":1.47,
+		"entertainment":1.49
 	},
 	{
 		"gameMap":{
@@ -115,9 +115,9 @@
 		},
 		"pro":1.47,
 		"one":1.49,
-		"two":1.52,
-		"three":1.55,
-		"entertainment":1.57
+		"two":1.51,
+		"three":1.53,
+		"entertainment":1.55
 	},
 	{
 		"gameMap":{
@@ -128,11 +128,11 @@
 			"classic":true,
 			"classicLevel":10
 		},
-		"pro":1.44,
-		"one":1.46,
-		"two":1.49,
-		"three":1.52,
-		"entertainment":1.54
+		"pro":1.43,
+		"one":1.45,
+		"two":1.47,
+		"three":1.49,
+		"entertainment":1.52
 	},
 	{
 		"gameMap":{
@@ -145,9 +145,24 @@
 		},
 		"pro":1.3,
 		"one":1.32,
-		"two":1.35,
-		"three":1.38,
+		"two":1.34,
+		"three":1.37,
 		"entertainment":1.4
+	},
+	{
+		"gameMap":{
+			"id":15,
+			"name":"城镇手指",
+			"score":124.5,
+			"topScore":117.17,
+			"classic":false,
+			"classicLevel":1
+		},
+		"pro":1.18,
+		"one":1.2,
+		"two":1.22,
+		"three":1.24,
+		"entertainment":1.27
 	},
 	{
 		"gameMap":{
@@ -160,9 +175,9 @@
 		},
 		"pro":1.08,
 		"one":1.1,
-		"two":1.13,
-		"three":1.16,
-		"entertainment":1.18
+		"two":1.12,
+		"three":1.14,
+		"entertainment":1.16
 	},
 	{
 		"gameMap":{
@@ -173,26 +188,11 @@
 			"classic":true,
 			"classicLevel":10
 		},
-		"pro":1.51,
-		"one":1.53,
-		"two":1.56,
-		"three":1.59,
-		"entertainment":2.01
-	},
-	{
-		"gameMap":{
-			"id":19,
-			"name":"浮空要塞",
-			"score":135.48,
-			"topScore":129.68,
-			"classic":false,
-			"classicLevel":5
-		},
-		"pro":1.31,
-		"one":1.33,
-		"two":1.36,
-		"three":1.39,
-		"entertainment":1.41
+		"pro":1.5,
+		"one":1.52,
+		"two":1.54,
+		"three":1.56,
+		"entertainment":1.59
 	},
 	{
 		"gameMap":{
@@ -205,9 +205,9 @@
 		},
 		"pro":1.53,
 		"one":1.55,
-		"two":1.58,
-		"three":2.01,
-		"entertainment":2.03
+		"two":1.57,
+		"three":2.0,
+		"entertainment":2.02
 	},
 	{
 		"gameMap":{
@@ -220,9 +220,9 @@
 		},
 		"pro":2.02,
 		"one":2.04,
-		"two":2.07,
-		"three":2.1,
-		"entertainment":2.12
+		"two":2.06,
+		"three":2.08,
+		"entertainment":2.1
 	},
 	{
 		"gameMap":{
@@ -234,10 +234,10 @@
 			"classicLevel":5
 		},
 		"pro":1.01,
-		"one":1.03,
-		"two":1.06,
-		"three":1.09,
-		"entertainment":1.11
+		"one":1.02,
+		"two":1.03,
+		"three":1.05,
+		"entertainment":1.07
 	},
 	{
 		"gameMap":{
@@ -250,9 +250,9 @@
 		},
 		"pro":2.04,
 		"one":2.06,
-		"two":2.09,
-		"three":2.12,
-		"entertainment":2.14
+		"two":2.08,
+		"three":2.1,
+		"entertainment":2.12
 	},
 	{
 		"gameMap":{
@@ -263,11 +263,11 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":1.09,
-		"one":1.11,
-		"two":1.14,
-		"three":1.17,
-		"entertainment":1.19
+		"pro":1.08,
+		"one":1.1,
+		"two":1.13,
+		"three":1.15,
+		"entertainment":1.17
 	},
 	{
 		"gameMap":{
@@ -280,9 +280,9 @@
 		},
 		"pro":1.47,
 		"one":1.49,
-		"two":1.52,
-		"three":1.55,
-		"entertainment":1.57
+		"two":1.51,
+		"three":1.53,
+		"entertainment":1.55
 	},
 	{
 		"gameMap":{
@@ -293,26 +293,11 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":1.5,
-		"one":1.52,
-		"two":1.55,
-		"three":1.58,
-		"entertainment":2.0
-	},
-	{
-		"gameMap":{
-			"id":27,
-			"name":"城镇高速公路(反向)",
-			"score":145.83,
-			"topScore":139.82,
-			"classic":false,
-			"classicLevel":4
-		},
-		"pro":1.4,
-		"one":1.42,
-		"two":1.45,
-		"three":1.48,
-		"entertainment":1.5
+		"pro":1.48,
+		"one":1.5,
+		"two":1.52,
+		"three":1.55,
+		"entertainment":1.57
 	},
 	{
 		"gameMap":{
@@ -325,9 +310,9 @@
 		},
 		"pro":1.39,
 		"one":1.41,
-		"two":1.44,
-		"three":1.47,
-		"entertainment":1.49
+		"two":1.43,
+		"three":1.46,
+		"entertainment":1.48
 	},
 	{
 		"gameMap":{
@@ -338,26 +323,11 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":2.0,
-		"one":2.02,
-		"two":2.05,
-		"three":2.08,
-		"entertainment":2.1
-	},
-	{
-		"gameMap":{
-			"id":30,
-			"name":"意大利比萨斜塔",
-			"score":106.67,
-			"topScore":100.9,
-			"classic":false,
-			"classicLevel":5
-		},
-		"pro":1.02,
-		"one":1.04,
-		"two":1.07,
-		"three":1.1,
-		"entertainment":1.12
+		"pro":1.58,
+		"one":2.0,
+		"two":2.02,
+		"three":2.04,
+		"entertainment":2.06
 	},
 	{
 		"gameMap":{
@@ -368,11 +338,11 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":1.52,
-		"one":1.54,
-		"two":1.57,
-		"three":2.0,
-		"entertainment":2.02
+		"pro":1.51,
+		"one":1.53,
+		"two":1.55,
+		"three":1.57,
+		"entertainment":2.0
 	},
 	{
 		"gameMap":{
@@ -383,11 +353,41 @@
 			"classic":false,
 			"classicLevel":8
 		},
-		"pro":1.28,
-		"one":1.3,
-		"two":1.32,
-		"three":1.35,
-		"entertainment":1.37
+		"pro":1.27,
+		"one":1.29,
+		"two":1.31,
+		"three":1.33,
+		"entertainment":1.35
+	},
+	{
+		"gameMap":{
+			"id":33,
+			"name":"陷阱车间",
+			"score":150.81,
+			"topScore":128.85,
+			"classic":false,
+			"classicLevel":4
+		},
+		"pro":1.44,
+		"one":1.46,
+		"two":1.48,
+		"three":1.51,
+		"entertainment":1.53
+	},
+	{
+		"gameMap":{
+			"id":34,
+			"name":"魔女城",
+			"score":204.48,
+			"topScore":204.48,
+			"classic":false,
+			"classicLevel":6
+		},
+		"pro":1.55,
+		"one":1.58,
+		"two":2.01,
+		"three":2.04,
+		"entertainment":2.07
 	},
 	{
 		"gameMap":{
@@ -398,11 +398,11 @@
 			"classic":true,
 			"classicLevel":10
 		},
-		"pro":1.38,
-		"one":1.4,
+		"pro":1.39,
+		"one":1.41,
 		"two":1.43,
-		"three":1.46,
-		"entertainment":1.48
+		"three":1.45,
+		"entertainment":1.47
 	},
 	{
 		"gameMap":{
@@ -415,9 +415,9 @@
 		},
 		"pro":1.41,
 		"one":1.43,
-		"two":1.46,
-		"three":1.49,
-		"entertainment":1.51
+		"two":1.45,
+		"three":1.47,
+		"entertainment":1.5
 	},
 	{
 		"gameMap":{
@@ -431,8 +431,8 @@
 		"pro":1.52,
 		"one":1.54,
 		"two":1.57,
-		"three":2.01,
-		"entertainment":2.03
+		"three":1.59,
+		"entertainment":2.01
 	},
 	{
 		"gameMap":{
@@ -443,11 +443,11 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":2.17,
+		"pro":2.18,
 		"one":2.2,
 		"two":2.23,
 		"three":2.26,
-		"entertainment":2.28
+		"entertainment":2.29
 	},
 	{
 		"gameMap":{
@@ -458,11 +458,11 @@
 			"classic":false,
 			"classicLevel":8
 		},
-		"pro":1.25,
-		"one":1.27,
-		"two":1.3,
-		"three":1.33,
-		"entertainment":1.35
+		"pro":1.24,
+		"one":1.26,
+		"two":1.28,
+		"three":1.3,
+		"entertainment":1.32
 	},
 	{
 		"gameMap":{
@@ -473,11 +473,11 @@
 			"classic":true,
 			"classicLevel":10
 		},
-		"pro":2.1,
+		"pro":2.09,
 		"one":2.12,
 		"two":2.15,
 		"three":2.18,
-		"entertainment":2.2
+		"entertainment":2.21
 	},
 	{
 		"gameMap":{
@@ -491,7 +491,7 @@
 		"pro":1.47,
 		"one":1.49,
 		"two":1.52,
-		"three":1.55,
+		"three":1.54,
 		"entertainment":1.57
 	},
 	{
@@ -503,11 +503,11 @@
 			"classic":true,
 			"classicLevel":10
 		},
-		"pro":1.54,
-		"one":1.56,
+		"pro":1.55,
+		"one":1.57,
 		"two":1.59,
 		"three":2.02,
-		"entertainment":2.04
+		"entertainment":2.05
 	},
 	{
 		"gameMap":{
@@ -518,11 +518,11 @@
 			"classic":true,
 			"classicLevel":10
 		},
-		"pro":1.57,
-		"one":1.59,
+		"pro":1.58,
+		"one":2.0,
 		"two":2.02,
 		"three":2.05,
-		"entertainment":2.07
+		"entertainment":2.08
 	},
 	{
 		"gameMap":{
@@ -533,11 +533,11 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":1.07,
-		"one":1.09,
+		"pro":1.08,
+		"one":1.1,
 		"two":1.12,
-		"three":1.15,
-		"entertainment":1.17
+		"three":1.14,
+		"entertainment":1.16
 	},
 	{
 		"gameMap":{
@@ -548,11 +548,11 @@
 			"classic":true,
 			"classicLevel":10
 		},
-		"pro":1.59,
-		"one":2.01,
-		"two":2.04,
-		"three":2.07,
-		"entertainment":2.09
+		"pro":2.0,
+		"one":2.02,
+		"two":2.05,
+		"three":2.08,
+		"entertainment":2.12
 	},
 	{
 		"gameMap":{
@@ -565,9 +565,9 @@
 		},
 		"pro":1.08,
 		"one":1.1,
-		"two":1.13,
-		"three":1.16,
-		"entertainment":1.18
+		"two":1.12,
+		"three":1.14,
+		"entertainment":1.16
 	},
 	{
 		"gameMap":{
@@ -578,11 +578,11 @@
 			"classic":false,
 			"classicLevel":4
 		},
-		"pro":1.34,
-		"one":1.36,
-		"two":1.39,
-		"three":1.42,
-		"entertainment":1.44
+		"pro":1.32,
+		"one":1.34,
+		"two":1.37,
+		"three":1.4,
+		"entertainment":1.43
 	},
 	{
 		"gameMap":{
@@ -595,9 +595,9 @@
 		},
 		"pro":1.35,
 		"one":1.37,
-		"two":1.4,
-		"three":1.43,
-		"entertainment":1.45
+		"two":1.39,
+		"three":1.41,
+		"entertainment":1.43
 	},
 	{
 		"gameMap":{
@@ -610,9 +610,9 @@
 		},
 		"pro":1.35,
 		"one":1.37,
-		"two":1.4,
-		"three":1.43,
-		"entertainment":1.45
+		"two":1.39,
+		"three":1.41,
+		"entertainment":1.44
 	},
 	{
 		"gameMap":{
@@ -623,10 +623,10 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":1.5,
-		"one":1.52,
-		"two":1.55,
-		"three":1.58,
+		"pro":1.49,
+		"one":1.51,
+		"two":1.54,
+		"three":1.57,
 		"entertainment":2.0
 	},
 	{
@@ -638,11 +638,11 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":2.06,
-		"one":2.08,
-		"two":2.11,
-		"three":2.14,
-		"entertainment":2.16
+		"pro":2.05,
+		"one":2.07,
+		"two":2.09,
+		"three":2.12,
+		"entertainment":2.15
 	},
 	{
 		"gameMap":{
@@ -653,11 +653,71 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":1.43,
-		"one":1.45,
-		"two":1.48,
-		"three":1.51,
-		"entertainment":1.53
+		"pro":1.42,
+		"one":1.44,
+		"two":1.46,
+		"three":1.48,
+		"entertainment":1.5
+	},
+	{
+		"gameMap":{
+			"id":53,
+			"name":"云中峡谷",
+			"score":144.02,
+			"topScore":135.45,
+			"classic":false,
+			"classicLevel":5
+		},
+		"pro":1.37,
+		"one":1.39,
+		"two":1.41,
+		"three":1.43,
+		"entertainment":1.46
+	},
+	{
+		"gameMap":{
+			"id":54,
+			"name":"改装车间",
+			"score":159.47,
+			"topScore":148.0,
+			"classic":false,
+			"classicLevel":4
+		},
+		"pro":1.52,
+		"one":1.54,
+		"two":1.56,
+		"three":1.58,
+		"entertainment":2.01
+	},
+	{
+		"gameMap":{
+			"id":55,
+			"name":"海盗鲨鱼岛",
+			"score":219.17,
+			"topScore":209.0,
+			"classic":false,
+			"classicLevel":4
+		},
+		"pro":2.12,
+		"one":2.14,
+		"two":2.17,
+		"three":2.2,
+		"entertainment":2.23
+	},
+	{
+		"gameMap":{
+			"id":56,
+			"name":"森林九曲木桥",
+			"score":213.46,
+			"topScore":213.46,
+			"classic":false,
+			"classicLevel":6
+		},
+		"pro":2.06,
+		"one":2.08,
+		"two":2.11,
+		"three":2.13,
+		"entertainment":2.16
 	},
 	{
 		"gameMap":{
@@ -668,11 +728,11 @@
 			"classic":false,
 			"classicLevel":4
 		},
-		"pro":1.55,
+		"pro":1.53,
 		"one":1.57,
 		"two":2.0,
-		"three":2.03,
-		"entertainment":2.05
+		"three":2.04,
+		"entertainment":2.08
 	},
 	{
 		"gameMap":{
@@ -683,11 +743,11 @@
 			"classic":true,
 			"classicLevel":10
 		},
-		"pro":1.51,
-		"one":1.53,
-		"two":1.57,
-		"three":2.01,
-		"entertainment":2.03
+		"pro":1.5,
+		"one":1.52,
+		"two":1.55,
+		"three":1.58,
+		"entertainment":2.02
 	},
 	{
 		"gameMap":{
@@ -698,10 +758,10 @@
 			"classic":false,
 			"classicLevel":4
 		},
-		"pro":1.12,
-		"one":1.14,
-		"two":1.17,
-		"three":1.21,
+		"pro":1.11,
+		"one":1.13,
+		"two":1.16,
+		"three":1.19,
 		"entertainment":1.23
 	},
 	{
@@ -713,11 +773,11 @@
 			"classic":false,
 			"classicLevel":5
 		},
-		"pro":1.16,
-		"one":1.18,
-		"two":1.21,
-		"three":1.25,
-		"entertainment":1.27
+		"pro":1.15,
+		"one":1.17,
+		"two":1.2,
+		"three":1.23,
+		"entertainment":1.26
 	},
 	{
 		"gameMap":{
@@ -731,7 +791,7 @@
 		"pro":1.33,
 		"one":1.35,
 		"two":1.38,
-		"three":1.42,
+		"three":1.41,
 		"entertainment":1.44
 	},
 	{
@@ -743,11 +803,11 @@
 			"classic":true,
 			"classicLevel":10
 		},
-		"pro":1.46,
+		"pro":1.45,
 		"one":1.48,
-		"two":1.52,
-		"three":1.56,
-		"entertainment":1.58
+		"two":1.51,
+		"three":1.54,
+		"entertainment":1.57
 	},
 	{
 		"gameMap":{
@@ -759,10 +819,10 @@
 			"classicLevel":4
 		},
 		"pro":2.12,
-		"one":2.14,
+		"one":2.15,
 		"two":2.18,
-		"three":2.22,
-		"entertainment":2.24
+		"three":2.21,
+		"entertainment":2.25
 	},
 	{
 		"gameMap":{
@@ -773,10 +833,10 @@
 			"classic":false,
 			"classicLevel":4
 		},
-		"pro":2.09,
+		"pro":2.1,
 		"one":2.11,
-		"two":2.13,
-		"three":2.18,
+		"two":2.14,
+		"three":2.17,
 		"entertainment":2.2
 	}
 ]

@@ -3,7 +3,7 @@
 		"gameMap":{
 			"id":2,
 			"name":"城镇高速公路",
-			"score":142.73,
+			"score":141.37,
 			"topScore":137.87,
 			"classic":true,
 			"classicLevel":10
@@ -18,7 +18,7 @@
 		"gameMap":{
 			"id":3,
 			"name":"城镇南山",
-			"score":138.98,
+			"score":138.15,
 			"topScore":133.9,
 			"classic":false,
 			"classicLevel":5
@@ -33,7 +33,7 @@
 		"gameMap":{
 			"id":4,
 			"name":"滨海风景",
-			"score":155.8,
+			"score":155.79,
 			"topScore":150.77,
 			"classic":false,
 			"classicLevel":5
@@ -48,7 +48,7 @@
 		"gameMap":{
 			"id":7,
 			"name":"狮城狂飙",
-			"score":205.44,
+			"score":204.23,
 			"topScore":159.56,
 			"classic":true,
 			"classicLevel":10
@@ -63,7 +63,7 @@
 		"gameMap":{
 			"id":8,
 			"name":"惊险飞机场",
-			"score":228.39,
+			"score":227.15,
 			"topScore":223.26,
 			"classic":false,
 			"classicLevel":5
@@ -91,12 +91,12 @@
 	},
 	{
 		"gameMap":{
-			"id":11,
+			"id":10,
 			"name":"龙之运河",
 			"score":208.34,
 			"topScore":202.06,
 			"classic":true,
-			"classicLevel":10
+			"classicLevel":8
 		},
 		"pro":2.05,
 		"one":2.07,
@@ -106,9 +106,9 @@
 	},
 	{
 		"gameMap":{
-			"id":13,
+			"id":12,
 			"name":"灵岩环道",
-			"score":150.94,
+			"score":150.91,
 			"topScore":146.69,
 			"classic":true,
 			"classicLevel":10
@@ -121,9 +121,9 @@
 	},
 	{
 		"gameMap":{
-			"id":15,
+			"id":13,
 			"name":"迪拜富人区",
-			"score":149.3,
+			"score":148.41,
 			"topScore":143.32,
 			"classic":true,
 			"classicLevel":10
@@ -136,7 +136,7 @@
 	},
 	{
 		"gameMap":{
-			"id":18,
+			"id":14,
 			"name":"野外修炼馆",
 			"score":135.06,
 			"topScore":129.66,
@@ -151,7 +151,7 @@
 	},
 	{
 		"gameMap":{
-			"id":19,
+			"id":15,
 			"name":"城镇手指",
 			"score":124.5,
 			"topScore":117.17,
@@ -166,7 +166,7 @@
 	},
 	{
 		"gameMap":{
-			"id":20,
+			"id":16,
 			"name":"里约滑坡",
 			"score":110.83,
 			"topScore":107.84,
@@ -181,7 +181,7 @@
 	},
 	{
 		"gameMap":{
-			"id":22,
+			"id":18,
 			"name":"恐龙决斗场",
 			"score":155.79,
 			"topScore":149.02,
@@ -196,7 +196,7 @@
 	},
 	{
 		"gameMap":{
-			"id":23,
+			"id":19,
 			"name":"浮空要塞",
 			"score":135.48,
 			"topScore":129.68,
@@ -211,7 +211,7 @@
 	},
 	{
 		"gameMap":{
-			"id":24,
+			"id":20,
 			"name":"遗忘孤城",
 			"score":157.28,
 			"topScore":151.7,
@@ -226,7 +226,7 @@
 	},
 	{
 		"gameMap":{
-			"id":25,
+			"id":21,
 			"name":"城镇命运之桥",
 			"score":207.56,
 			"topScore":200.3,
@@ -241,7 +241,7 @@
 	},
 	{
 		"gameMap":{
-			"id":26,
+			"id":22,
 			"name":"龙之路",
 			"score":103.84,
 			"topScore":100.8,
@@ -256,7 +256,7 @@
 	},
 	{
 		"gameMap":{
-			"id":27,
+			"id":23,
 			"name":"神秘研究所",
 			"score":209.58,
 			"topScore":203.4,
@@ -271,7 +271,7 @@
 	},
 	{
 		"gameMap":{
-			"id":28,
+			"id":24,
 			"name":"玩具工厂",
 			"score":114.27,
 			"topScore":107.73,
@@ -286,7 +286,7 @@
 	},
 	{
 		"gameMap":{
-			"id":39,
+			"id":35,
 			"name":"龙之遗迹",
 			"score":143.27,
 			"topScore":136.75,
@@ -301,9 +301,9 @@
 	},
 	{
 		"gameMap":{
-			"id":40,
+			"id":36,
 			"name":"万里长城",
-			"score":146.58,
+			"score":146.53,
 			"topScore":139.84,
 			"classic":true,
 			"classicLevel":10
@@ -316,9 +316,9 @@
 	},
 	{
 		"gameMap":{
-			"id":41,
+			"id":37,
 			"name":"海盗绝壁海湾",
-			"score":157.93,
+			"score":157.43,
 			"topScore":150.38,
 			"classic":true,
 			"classicLevel":10
@@ -331,7 +331,7 @@
 	},
 	{
 		"gameMap":{
-			"id":42,
+			"id":38,
 			"name":"海底神殿",
 			"score":225.17,
 			"topScore":215.9,
@@ -346,9 +346,9 @@
 	},
 	{
 		"gameMap":{
-			"id":44,
+			"id":40,
 			"name":"森林发夹",
-			"score":216.73,
+			"score":215.85,
 			"topScore":208.56,
 			"classic":true,
 			"classicLevel":10
@@ -361,7 +361,7 @@
 	},
 	{
 		"gameMap":{
-			"id":45,
+			"id":41,
 			"name":"英特拉格斯",
 			"score":152.33,
 			"topScore":146.22,
@@ -376,7 +376,7 @@
 	},
 	{
 		"gameMap":{
-			"id":46,
+			"id":42,
 			"name":"沙漠旋转工地",
 			"score":158.52,
 			"topScore":151.83,
@@ -391,7 +391,7 @@
 	},
 	{
 		"gameMap":{
-			"id":47,
+			"id":43,
 			"name":"大城堡秘密地下室",
 			"score":202.92,
 			"topScore":156.26,
@@ -406,7 +406,7 @@
 	},
 	{
 		"gameMap":{
-			"id":48,
+			"id":44,
 			"name":"黄山赛道",
 			"score":112.05,
 			"topScore":106.84,
@@ -421,9 +421,9 @@
 	},
 	{
 		"gameMap":{
-			"id":49,
+			"id":45,
 			"name":"海盗宝藏迷宫",
-			"score":207.26,
+			"score":206.9,
 			"topScore":157.16,
 			"classic":true,
 			"classicLevel":10
@@ -436,7 +436,7 @@
 	},
 	{
 		"gameMap":{
-			"id":50,
+			"id":46,
 			"name":"城镇公路",
 			"score":113.18,
 			"topScore":107.38,
@@ -451,7 +451,7 @@
 	},
 	{
 		"gameMap":{
-			"id":51,
+			"id":47,
 			"name":"冰峰裂谷",
 			"score":140.09,
 			"topScore":131.51,
@@ -466,7 +466,7 @@
 	},
 	{
 		"gameMap":{
-			"id":52,
+			"id":48,
 			"name":"圣诞秘密空间",
 			"score":140.9,
 			"topScore":134.62,
@@ -481,7 +481,7 @@
 	},
 	{
 		"gameMap":{
-			"id":53,
+			"id":49,
 			"name":"黄金坐标",
 			"score":140.35,
 			"topScore":133.39,
@@ -496,7 +496,7 @@
 	},
 	{
 		"gameMap":{
-			"id":54,
+			"id":50,
 			"name":"秘密机关的威胁",
 			"score":156.11,
 			"topScore":148.14,
@@ -511,7 +511,7 @@
 	},
 	{
 		"gameMap":{
-			"id":60,
+			"id":58,
 			"name":"彩虹之门",
 			"score":203.97,
 			"topScore":152.91,
@@ -526,7 +526,7 @@
 	},
 	{
 		"gameMap":{
-			"id":61,
+			"id":59,
 			"name":"太空蜿蜒跑道",
 			"score":156.48,
 			"topScore":148.96,
@@ -541,7 +541,7 @@
 	},
 	{
 		"gameMap":{
-			"id":62,
+			"id":60,
 			"name":"矿山曲折滑坡",
 			"score":119.27,
 			"topScore":109.99,
@@ -556,7 +556,7 @@
 	},
 	{
 		"gameMap":{
-			"id":63,
+			"id":61,
 			"name":"未完成的第五区",
 			"score":121.21,
 			"topScore":114.48,
@@ -571,7 +571,7 @@
 	},
 	{
 		"gameMap":{
-			"id":64,
+			"id":62,
 			"name":"森林崎岖下山道",
 			"score":142.7,
 			"topScore":131.26,
@@ -586,7 +586,7 @@
 	},
 	{
 		"gameMap":{
-			"id":65,
+			"id":63,
 			"name":"幽暗峡谷",
 			"score":152.49,
 			"topScore":144.17,
@@ -601,7 +601,7 @@
 	},
 	{
 		"gameMap":{
-			"id":66,
+			"id":64,
 			"name":"冰山滑雪场",
 			"score":218.65,
 			"topScore":210.18,

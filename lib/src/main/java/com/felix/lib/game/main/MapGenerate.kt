@@ -23,7 +23,7 @@ class MapGenerate {
     val offset = 0.0f
 
     companion object {
-        const val LEVEL = -1
+        const val LEVEL = 10
 
         @JvmStatic
         fun main(args: Array<String>) {
